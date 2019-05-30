@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="icon" type="image/x-icon" href="http://www.cdfgsanya.com/favicon.ico"/>
+		<link rel="stylesheet" type="text/css" href="../css/index.css"/>
+	</head>
+	<body>
+		<div id="contain">
+			<!--顶部-->
+			<div class="topWarp"></div>
+			<!--顶部轮播-->
+		    <div class="ShufflingWarp">
+		    	<div class="Shuffling">
+		    		<div class="Shuff"></div>
+		    		<div class="Shuffling_button">
+		    			<span class="Shuff_left"></span>
+		    			<span class="Shuff_right"></span>
+		    		</div>
+		    		<ul class="Shuff_nav">
+		    			<li class="circle" style="margin: 0;"></li>
+		    			<li></li>
+		    			<li></li>
+		    			<li></li>
+		    			<li></li>
+		    			<li></li>
+		    			<li></li>
+		    			<li></li>
+		    			<li></li>
+		    		</ul>
+		    	</div>
+		    </div>
+		    <!--广告部分-->
+		    <div class="Advertising"></div>
+		    <!--内容部分-->
+		    <div class="content">
+		    	<!--购物流程-->
+		    	<div class="ShoppingProcess">
+		    		<h2>购物流程</h2>
+		    		<ul></ul>
+		    	</div>
+		        <!--推荐部分--> 
+		        <div class="recommnd">
+	        		<ul class="recommend_nav"></ul>
+	        		<div class="recommend_list"></div>
+		        </div>
+		        <!--分类-->
+		        <div class="classification">
+		        	<!--左侧导航栏-->
+				    <div class="left_nav">
+				    	<ul>
+				    		<li>
+				    			<span>品牌推荐</span>
+				    			<em></em>
+				    		</li>
+				    		<li>
+				    			<span>美妆/香氛</span>
+				    			<em></em>
+				    		</li>
+				    		<li>
+				    			<span>手表/首饰</span>
+				    			<em></em>
+				    		</li>
+				    		<li>
+		                        <span>箱包/手袋</span>
+				    			<em></em>   		    		
+				    		</li>
+				    		<li>
+				    		    <span>服饰/配饰</span>
+				    			<em></em>
+				    		</li>
+				    		<li>
+				    		    <span>生活/百货</span>
+				    			<em></em>
+				    		</li>
+				    	</ul>
+				    </div>
+		        	<!--品牌推荐-->
+		        	<div class="Beauty_makeup brand_recommend">
+		        		<div class="brand_recommend_top">
+		        			<h2>品牌推荐</h2>
+		        			<ul class="brand_recommend_nav"></ul>
+		        			<a class="more_brand">
+		        				<span>更多品牌</span>
+		        				<i></i>
+		        			</a>
+		        		</div>
+		        		<div class="brand_recommend_list"></div>
+		        		<div class="brand_recommend_img">
+		        			<div class="brand_recommend_img_warp"></div>
+		        		</div>
+		        	</div>
+		            <!--美妆/香氛等部分-->
+		        </div>
+		    </div>
+		    <!--底部-->
+		    <div class="footer_parcel"></div>
+		   
+		</div>
+	</body>
+	 <script src="../js/startMove.js" type="text/javascript" charset="utf-8"></script>
+     <script src="../js/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+     <script src="../js/ajax.js" type="text/javascript" charset="utf-8"></script>
+     <script src="../js/index.js" type="text/javascript" charset="utf-8"></script>
+     <script type="text/javascript">
+     	$(function(){
+     		$(".topWarp").load("heardpublic.html");
+     		$(".footer_parcel").load("footpublic.html");
+     	})
+     </script>
+</html>
+

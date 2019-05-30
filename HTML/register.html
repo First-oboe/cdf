@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="icon" type="image/x-icon" href="http://www.cdfgsanya.com/favicon.ico"/>
+		<link rel="stylesheet" type="text/css" href="../css/register.css"/>
+	</head>
+	<body>
+		<div class="registerWarp">
+			<!--顶部-->
+			<div class="headerWarps"></div>
+			<!--内容区-->
+			<div class="contentsWarp">
+				<div class="contents">
+					<div class="lonInLefDdiv"></div>
+					<div class="lonInRightDdiv">
+						<p>立即注册</p>
+						<!--<form>-->
+							<div class="Register_phone">
+								<div class="Register_phone_input">
+									<input class="phonenum" placeholder="请输入手机号"/>
+								</div>
+								<i></i>
+								<b class="Register_phone_hint"></b>
+								<span class="phone_title">手机号不能为空</span>
+							</div>
+							<div class="forward">
+								<button>发送验证码</button>
+							</div>
+							<div class="Register_phone phone_code">
+								<div class="Register_phone_input">
+									<input class="phonecode" placeholder="请输入手机验证码"/>
+								</div>
+								<i></i>
+								<b class="mobile_hint"></b>
+								<span class="mobile_title">请输入短信验证码</span>
+							</div>
+							<div class="Register_phone">
+								<div class="Register_phone_input">
+									<input class="password" placeholder="请输入密码"/>
+								</div>
+								<i></i>
+								<b class="password_hint"></b>
+								<span class="password_title">密码不能为空！</span>
+							</div>
+							<div class="Register_phone">
+								<div class="Register_phone_input">
+									<input class="agianpassword" placeholder="请再次输入密码"/>
+								</div>
+								<i></i>
+								<b class="newpassword_hint"></b>
+								<span class="newpassword_title">确认密码不能为空！</span>
+							</div>
+							<div class="agree">
+								<div class="agree_left">
+									<i></i>
+									<span>我已阅读并同意</span>
+								</div>
+								<div class="deal">
+									<a><<会员注册协议>></a>
+								</div>
+							</div>
+							<div class="register">
+								<button>注册</button>
+							</div>
+						<!--</form>-->
+						
+					</div>
+				</div>
+			</div>	
+			<!--底部-->
+			<div class="footerWarp"></div>
+		</div>
+	</body>
+	<script src="../js/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/register.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		$(function(){
+     		$(".headerWarps").load("heardpublic.html");
+     		$(".footerWarp").load("footpublic.html");
+     	})
+	</script>
+</html>

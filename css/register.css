@@ -1,0 +1,154 @@
+input,button{outline: none;border: none;}
+input{
+	line-height: 20px;
+	 color: #999;
+	 font-size: 12px;
+}
+.registerWarp{
+	width: 100%;
+	height: 100%;
+	background: #FFFFFF;
+}
+.contents{
+	width: 1200px;
+	height: 449px;
+	margin: 0 auto;
+}
+.lonInLefDdiv{
+	float: left;
+	width: 810px;
+	height: 449px;
+	padding: 47px 50px 27px 100px;
+	box-sizing: border-box;
+}
+.lonInLefDdiv img{
+	width: 660px;
+    height: 370px;
+}
+.lonInRightDdiv{
+	float: left;
+	width: 390px;
+	height: 391px;
+    padding-top: 40px;
+    padding-bottom: 27px;
+    /*margin-right: -90px;*/
+   box-sizing: border-box;
+}
+.lonInRightDdiv p{
+	font-size: 16px;
+    line-height: 48px;
+    color: #b81c22;
+}
+.Register_phone{
+	height: 32px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.right_nav{
+	display: none;
+}
+.Register_phone_input{
+	float: left;
+	width: 250px;
+	height: 32px;
+	border: 1px solid #b6b8b7;
+    padding: 5px 10px;
+    padding-left: 0;   
+    text-indent: 38px;
+   box-sizing: border-box;
+}
+.Register_phone i{
+	position: absolute;
+    top: 3px;
+    left: 6px;
+    width: 18px;
+    height: 19px;
+    background: url(../img/land.9a36bea3.png) -2px -2px no-repeat;
+}
+.Register_phone b{
+	width: 18px;
+    height: 19px;
+    position: absolute;
+    background: url(../img/land.9a36bea3.png)-25px -18px no-repeat;
+    left: 226px;
+    top: 4px;
+    display: none;
+}
+.Register_phone .phone_hint{
+	background-position: -25px 0;
+}
+.Register_phone span{
+	float: left;
+    margin-top: 6px;
+    margin-left: 10px;
+    color: #f00f00;
+    display: none;
+}
+.forward{
+	height: 45px;
+}
+.forward button{
+	width: 100px;
+	height: 30px;
+	margin-bottom: 15px;
+	color: #fff;
+    background: #b81c22;
+    cursor: pointer;
+}
+.forward button:hover{
+	background: #ce2023;
+}
+.phone_code i{
+   background-position: -2px -29px;
+   top: 6px;
+}
+.agree{
+	height: 16px;
+    line-height: 16px;
+    margin: 10px 0 17px;
+    font-size: 12px;
+}
+.agree_left{
+	height: 16px;
+	float: left;
+	cursor: pointer;
+}
+.agree_left i{
+	float: left;
+    margin-top: 2px;
+    width: 13px;
+    height: 13px;
+    background: url(../img/下载22.png) -14px 0px no-repeat;
+}
+.agree_left span{
+	float: left;
+	margin-left: 13px;
+}
+.deal{
+	height: 16px;
+	float: left;
+	cursor: pointer;
+}
+.deal a{
+	margin-left: 3px;
+	color: #b81c22;
+    text-decoration: underline;
+}
+.register{
+	width: 250px;
+	height: 32px;
+    
+}
+.register button{
+	width: 100%;
+    height: 100%;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    background-color: #b81c22;
+    line-height: 32px;
+}
+.register button:hover{
+	background-color: #95171b;
+}

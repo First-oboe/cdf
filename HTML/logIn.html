@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="icon" type="image/x-icon" href="http://www.cdfgsanya.com/favicon.ico"/>
+		<link rel="stylesheet" href="../css/logIn.css" />
+	</head>
+	<body>
+		<div class="loginbox">
+	    	<!--顶部外套-->
+			<div class="headerWarps"></div>
+			<!--内容区-->
+			<div class="contentsWarp">
+				<div class="contents">
+					<div class="lonInLefDdiv"></div>
+					<div class="lonInRightDdiv">
+						<div class="login_form">
+							<p>手机验证码登录</p>
+							<div class="logswitch">
+								<div class="logswitch_way">
+									<i class="slect"></i>
+									<span>手机验证码登录</span>
+								</div>
+								<div class="logswitch_way">
+									<i></i>
+									<span>会员账号登录</span>
+								</div>
+							</div>
+							<div class="put">
+								<!--<form onsubmit="false">-->
+									<div class="panels">
+										<div class="mobile">
+											<div class="phone_border">
+												<input  placeholder="输入手机号"/>
+											</div>
+											<b></b>
+											<span class="hint">错误</span>
+											<i></i>
+										</div>
+										<div class="auth_code">
+											<div class="write_code">
+												<input  placeholder="填写验证码"/>
+											</div>
+											<div id="send_code">
+												<button>发送验证码</button>
+											</div>
+											
+										</div>
+									</div>
+									<div class="bar">
+										<div class="bar_name">
+											<i class="checkbox"></i>
+											<span>记住用户名</span>
+										</div>
+										<div class="no_password">
+											<a>忘记密码？</a>
+										</div>
+									</div>
+									<div class="login">
+										<button>登录</button>
+									</div>
+								<!--</form>-->
+								<div class="no_vip">
+									<span>还不是会员？</span>
+									<a href="register.html">免费注册</a>
+								</div>
+								<div class="anther">
+									<div class="anther_login">使用第三方账号登录：</div>
+									<div class="weibo_else">
+										<a class="weibo">
+											<i class="weibo_logo"></i>
+											<span>微博登录</span>
+										</a>
+										<a class="weibo">
+											<i class="zhifu_logo"></i>
+											<span>支付宝登录</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+			    </div>
+			</div>
+			<!--底部-->
+			<div class="footerWarp"></div>
+		</div>
+		<!--验证码提示-->
+		<div class="vessel">
+    		<div class="falseAlert"></div>
+	    	<div class="codeAlert">
+	    		<div class="codeH">
+	    			<div class="codeH_top">
+	    				<span>提示</span>
+	    				<button>关闭</button>
+	    			</div>
+	    		    <div class="codeH_Mid">验证码错误，请重新输入</div>
+	    		    <div class="codeH_Bo">
+	    		    	<button>确定</button>
+	    		    </div>
+	    		</div>
+	    	</div>
+	    </div>
+	</body>
+	<script src="../js/jquery-1.8.3.min.js"></script>
+	<script src="../js/logIn.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/gVerify.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		$(function(){
+     		$(".headerWarps").load("heardpublic.html");
+     		$(".footerWarp").load("footpublic.html");
+     	})
+	</script>
+</html>

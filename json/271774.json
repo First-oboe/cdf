@@ -1,0 +1,167 @@
+{
+	"items": [
+		{
+			"id": 400332,
+			"goodsId": 400333,
+			"styleId": 400332,
+			"warehouseId": 1,
+			"name": "资生堂新红妍肌活精华露 100ML",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/0ff301c6b4b43622223ad2ac1ab0fa1a_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "1136.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "1450.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:34:36",
+			"shelfStatus": 1,
+			"count": 208,
+			"isSellable": true,
+			"brand": "资生堂",
+			"brandEN": "SHISEIDO",
+			"brandId": 248268
+		}, {
+			"id": 285151,
+			"goodsId": 285151,
+			"styleId": 285151,
+			"warehouseId": 1,
+			"name": "黛珂紫苏精华水 150ML",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228592/285151_1_pic400_8840.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "278.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "375.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:34:36",
+			"shelfStatus": 1,
+			"count": 131,
+			"isSellable": true,
+			"brand": "黛珂",
+			"brandEN": "COSME DECORTE",
+			"brandId": 248432
+		}, {
+			"id": 403329,
+			"goodsId": 403330,
+			"styleId": 403329,
+			"warehouseId": 1,
+			"name": "倩碧活芯乳两支装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/11e2121c79249b05a9a3460bb4e6eafe_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "482.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "630.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:34:36",
+			"shelfStatus": 1,
+			"count": 319,
+			"isSellable": true,
+			"brand": "倩碧",
+			"brandEN": "CLINIQUE",
+			"brandId": 248271
+		}, {
+			"id": 402801,
+			"goodsId": 402802,
+			"styleId": 402801,
+			"warehouseId": 1,
+			"name": "茱莉蔻玫瑰衡肤花卉水沁润限量版",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/c9d9799b5f2b5a802dcedd7a6b64d74b_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "413.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "600.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:34:36",
+			"shelfStatus": 1,
+			"count": 62,
+			"isSellable": true,
+			"brand": "茱莉蔻",
+			"brandEN": "Jurlique",
+			"brandId": 248307
+		}, {
+			"id": 307891,
+			"goodsId": 307891,
+			"styleId": 307891,
+			"warehouseId": 1,
+			"name": "蒂佳婷水动力舒缓补水面膜套装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228601/307891_1_pic400_2032.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "207.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "380.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:34:36",
+			"shelfStatus": 1,
+			"count": 193,
+			"isSellable": true,
+			"brand": "蒂佳婷",
+			"brandEN": "Dr.Jart+",
+			"brandId": 252117
+		}, {
+			"id": 403460,
+			"goodsId": 403461,
+			"styleId": 403460,
+			"warehouseId": 1,
+			"name": "蒂芙尼浓情女士香水50ML",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/eaa4aa8d6995674a04b3710a0e35ce26_400x400.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "702.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "845.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:34:36",
+			"shelfStatus": 1,
+			"count": 8,
+			"isSellable": true,
+			"brand": "蒂芙尼",
+			"brandEN": "TIFFANY&CO.",
+			"brandId": 249131
+		}
+	],
+	"total": 12,
+	"page": 1,
+	"nav":[{"id":225511,"name":"腕表"},{"id":228634,"name":"女士腕表"},{"id":228636,"name":"石英"},{"id":248411,"name":"Calvin Klein 卡尔文克莱恩"},{"id":271774,"name":"CK表Stately系列精钢表石英K3G23626"}],
+	"detail":{"id":271774,"name":"CK表Stately系列精钢表石英K3G23626","nameEN":"CK Stately Po Watch Quartz K3G23626","brand":{"id":248411,"initial":"KA","name":"卡尔文克莱恩","nameEN":"Calvin Klein","log":"http://pic.cdfgsanya.com/assets/upload/brandlogo/2016/7/20/20160720025852684.jpg","url":"","title":"","banner":"http://pic.cdfgsanya.com/assets/upload/brandlogo/ab87e6e26579cda4498de6e05133a17a.jpg","country":{"name":"美国","nameEN":"USA","log":"http://pic.cdfgsanya.com/assets/upload/country/d215151a113ad0239f75233f73d83ecc.png"},"productCount":33,"description":"Calvin Klein是美国知名大设计师品牌；每一件Calvin Klein时装都显得非常别致。充分体现了十足的纽约生活方式，Calvin Klein的服装成为了新一代职业妇女品牌选择中的优先选择。Calvin Klein有“Calvin Klein Collection”（高级时装）、“CK Calvin Klein”（成衣）、“CKJ”（牛仔）三大品牌，另外还经营休闲装、袜子、内衣、睡衣、泳衣、香水、眼镜、家饰用品等。"},"pics":["http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_1_pic500_5707.jpg","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_2_pic500_294.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_3_pic500_5162.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_4_pic500_7990.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_5_pic500_9769.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_6_pic500_1691.JPG"],"description":"CK表Stately系列精钢石英表K3G23626","details":"<div style=\"background:#fff; color:#666;font-size:12px;font-family:Arial, Helvetica, sans-serif, \" microsoft=\"\"><!---- 产品描述 ---->\n<div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px; margin:10px 0 0; color:#333; font-size:14px;\"><span style=\" padding-left:10px;\">产品描述<em style=\"color:#ccc; padding-left:10px;  font-style:normal;\">PRODUCT DESCRIPTION</em></span></div>\n<div style=\" line-height:20px; padding:10px;\">*此款商品存在新旧款，请以收到的实物为准。</div>\n<div style=\"text-align:center;\"><img src=\"http://pic.cdfgsanya.com/assets/upload/2017/8/22/20170822041347555.jpg\" alt=\"\" /><br />\n<img src=\"http://pic.cdfgsanya.com/assets/upload/2017/8/22/2017082204182589.jpg\" alt=\"\" /><br />\n<img src=\"http://pic.cdfgsanya.com/assets/upload/2017/8/22/20170822041835472.jpg\" alt=\"\" /><br />\n<img src=\"http://pic.cdfgsanya.com/assets/upload/2017/8/22/20170822041855449.jpg\" alt=\"\" /></div>\n<!---- 注意事项 ---->\n<div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px;  color:#333;font-size:14px;\"><b style=\" padding-left:10px;\">手表维护及保养常识</b></div>\n<div style=\"padding:10px;line-height:20px;\">表壳和表带如帖身衣物，会直接接触人体皮肤，如不清洁污垢，则容易弄脏衣服袖口，也容易造成皮肤瘙痒、皮肤过敏，因此需要常保清洁。当你取下手表时，用柔软布料轻拭表身、表带及扣环等，可延长手表的寿命。此外，对于不同类型的手表，有着不同的保养原则。</div>\n<div style=\" width:100%;font-size:14px; font-weight:bold; color:#333; height:30px; line-height:30px; background:#f7f7f7;\"><b style=\"padding-left:10px;\">全自动机械表</b></div>\n<div style=\" padding:10px;line-height:20px;\">1.新购的全自动机械表在一周内恐怕日间活动量不够，而导致走时不足，故建议晚间放下前，把手表以平常状态将其左右反复摇摆约1分钟或手动上弦20-30次，以补充上弦，确保走时正常。 <br />\n2.按国家标准，一级机械手表的走时误差在&plusmn;45秒/日以内。保证自动上链手表(自动机械表)持续运转，建议您每天佩戴手表的有效时间不低于8小时。请勿在手表显示晚上9点钟至凌晨3点钟时间内进行调校日期的操作，以免损坏手表机械系统。 <br />\n3.机械表不使用时，建议每月手动上弦一次，防止表内机油凝固。首次使用或停止佩戴后重新使用时，需手动上弦20～30次。</div>\n<div style=\" width:100%;font-size:14px;font-weight:bold;color:#333; height:30px; line-height:30px;background:#f7f7f7;\"><b style=\"padding-left:10px;\">石英表</b></div>\n<div style=\" padding:10px;line-height:20px;\">1.石英手表的电池用量通常在两年以上，如果打算在数周或月内将手表闲置不戴，建议将其收藏好之前将表冠拉出。此举将中断手表机芯的供电以便于延长电池使用寿命。当电池电量耗尽而手表停走时，应尽快送到指定的维修站进行检查，避免让没有电的电池长期留咋表内引致机芯损坏。 <br />\n2.在常温5℃-35℃的范围内，可稳定准确运作，走时精度每月&plusmn;15秒左右，若温度超过50℃或低于-10℃时会导致手表略微走快活走慢，当恢复常温时，上述情况会好转。 <br />\n3.石英两针表在调校时间时要调快一分钟，以补偿齿轮的间隙。</div>\n<div style=\" width:100%;font-size:14px;font-weight:bold; color:#333; height:30px; line-height:30px;background:#f7f7f7;\"><b style=\"padding-left:10px;\">日常注意事项：</b></div>\n<div style=\" padding:10px;line-height:20px;\">1.机械表要避免接近磁场，例如：放在产生磁场的电器旁（手机）或有磁场的物体（麻将机、音响等电器）的旁边，都可能引起手表暂时性停走或不准。<br />\n2.避免在洗热水澡时或煮蒸身体时佩戴使用，以免损坏。任何防水腕表都不能接触热水、水蒸气、洗衣液、香皂等物品，如碰水请及时擦干（不能让水一直停留在表上），请不要在水中进行按键操作。<br />\n3.避免直接接触化学溶剂、化学材料或环境均会腐蚀外观件。<br />\n4.硬金属、蓝宝石玻璃表镜虽然抗磨损、防划，但不宜磕碰、重压、重摔等不适当操作。<br />\n5.手表的防水依靠表玻璃、后盖、表把等处的防水胶圈而达到相应的标准。30米防水：洗脸洗手。100米防水：游泳池及海水表面使用。200米防水：潜水表标准。200米以上：浮潜及深潜使用。</div>\n<!---- 品牌故事 ---->\n<div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px;margin:10px 0 0; color:#333;font-ize:14px;\"><span style=\" padding-left:10px;\">品牌故事<em style=\"color:#ccc; padding-left:10px; font-style:normal;\">BRAND INTRODUCTION</em></span></div>\n<div style=\"width:100%; text-align:left;overflow:hidden;\">\n<div style=\"margin:0;padding:10px;line-height:20px;\">Calvin Klein是美国知名大设计师品牌；每一件Calvin Klein时装都显得非常别致。充分体现了十足的纽约生活方式，Calvin Klein的服装成为了新一代职业妇女品牌选择中的优先选择。Calvin Klein有&ldquo;Calvin Klein Collection&rdquo;（高级时装）、&ldquo;CK Calvin Klein&rdquo;（成衣）、&ldquo;CKJ&rdquo;（牛仔）三大品牌，另外还经营休闲装、袜子、内衣、睡衣、泳衣、香水、眼镜、家饰用品等。</div>\n</div>\n</div>\n<p>&nbsp;</p>","detailsEN":"","faqs":[{"title":"常见问题","sections":[{"id":1028,"name":"Q：购买时间有什么要求吗？","content":"旅客购买免税品时间距离离岛时间不能超过<strong>30</strong>天。<br/>1.<strong>三亚凤凰机场</strong>，航班出发时间要求如下：<br/>00:00--10:00之间购买，<strong>当</strong>日16:00之后<br/>10:00--21:00之间购买，提前6小时下单<br/>21:00--00:00之间购买，<strong>次</strong>日16:00之后<br/>2.<strong>海口美兰机场、海口火车站</strong>，航班/火车出发时间要求如下：<br/>00:00--09:00之间购买，<strong>次</strong>日08:00之后<br/>09:00--21:00之间购买，<strong>次</strong>日08:00之后<br/>21:00--00:00之间购买，<strong>后</strong>天08:00之后<br/>3.<strong>琼海博鳌机场</strong>，航班出发时间要求如下：<br/>00:00--09:00之间购买，<strong>次</strong>日11:00之后<br/>09:00--21:00之间购买，<strong>次</strong>日11:00之后<br/>21:00--00:00之间购买，<strong>后</strong>天11:00之后<br/>4.<strong style=\"white-space: normal;\">新海港、秀英港</strong>，轮渡出发时间要求如下：<br style=\"white-space: normal;\"/>00:00--09:00之间购买，<strong style=\"white-space: normal;\">次</strong>日08:00之后<br style=\"white-space: normal;\"/>09:00--21:00之间购买，<strong style=\"white-space: normal;\">次</strong>日08:00之后<br style=\"white-space: normal;\"/>21:00--00:00之间购买，<strong style=\"white-space: normal;\">后</strong>天08:00之后","shortName":null},{"id":1035,"name":"Q：在官网购买免税品需要满足什么条件？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">年满16周岁的中国公民且需持有离岛但不离境的机票、火车票或轮渡船票。</span></p>","shortName":null},{"id":1036,"name":"Q：还没有订机票、火车票或轮渡船票，可以购买吗？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">不可以，根据离岛免税政策规定，必须持有正确的离岛航班信息、火车票或轮渡船票信息才能购买。</span></p>","shortName":null},{"id":1022,"name":"Q：飞机航班、火车车次或轮渡班次变更或改签，怎么办？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">若您乘坐的飞机航班、火车车次或轮渡班次变更或改签，请至少在原行程出发前24小时联系客服（400-699-6956）更改，否则可能导致您无法提货，只能申请退货。</span></p>","shortName":null},{"id":10003,"name":"Q：市场价、划线价、促销价指的是什么？","content":"1、<strong>市场价、划线价</strong>：商品展示的划线价或市场价可能是品牌官网价、品牌专柜价、有税零售价；由于地区、时间的差异性和市场行情波动，品牌官网价、品牌专柜价、商品吊牌价等可能会与您购物时展示的不一致，该价格仅供您参考。<p>2、<strong>促销价</strong>：如无特殊说明，促销价是在免税价基础上给予的优惠价格。如有疑问，您可以在购买前与客服联系。<br/></p><p>3、<strong>价格异常</strong>：因可能存在系统缓存、页面更新延迟等不确定性情况，导致价格显示异常，商品具体售价请以订单结算页价格为准。如您发现异常情况出现，请立即联系我们修正，以便您能顺利购物。<br/></p>","shortName":null},{"id":1037,"name":"Q：限购数量是怎么回事？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">国家规定每人每次购买免税品按照不同类别不得超出相应数量（例如化妆品12件、香水8件、手表、首饰6件、箱包、配饰4件，家用空气净化器2件等）。</span></p>","shortName":null},{"id":1057,"name":"Q：购物次数、限购额度是怎么回事？","content":"<p>﻿1、购物次数：离岛旅客不限购物次数。</p><p>2、限购额度：每个公历年内，单价人民币8000元以下商品，累计购物金额不超过人民币30000元（含30000元），此外，单价人民币8000元以上商品，每年限购2件，每人每次限购1件，并在扣减未使用的免税额后缴纳进境物品进口税（行邮税），最高扣减免税额度为8000元。</p><p>（PS.同一旅客在同一年度内乘飞机、乘火车和乘轮船免税购物金额合计计算，且不得超过离岛免税政策的额度限制规定。）</p>","shortName":null},{"id":1059,"name":"Q：不同免税店购买，免税额度是分别计算的吗？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">离岛一次，计一次购买次数，只要在离岛免税店购物，就会消耗本次购买机会的免税额度。飞机、火车和轮渡离岛限购额度与限购数量同享，购买免税品的限制以身份证计算，三种方式离岛均会消耗免税额度。</span></p>","shortName":null},{"id":1063,"name":"Q：官网购买后，怎么提货呢？","content":"<p><strong>1. 乘坐飞机离岛</strong>：在离岛机场隔离区cdf提货点取货，可直接带上飞机。<br/>（三亚凤凰机场在国内出发厅215号登机口对面；海口美兰机场在国内出发厅15号登机口旁；琼海博鳌机场在国内出发厅2楼1号登机口旁。）</p><p><strong>2. 乘坐火车离岛</strong>：<br/>从三亚、东方火车站出发：火车到达海口火车站后，在站台处三亚国际免税城提货点提货；<br/>从海口火车站出发：在海口火车站站内三亚国际免税城提货点提货。<br/><strong style=\"white-space: normal;\">3. 轮渡离岛</strong>：<br style=\"white-space: normal;\"/>从新海港出发：<br/>散客提货进入安检后右转5米免税店散客提货点处；<br/>自驾提货通过车辆检票口后行至小车安检站右转50米免税店自驾提货点处。</p><p>从秀英港出发：<br/>散客提货安检后左转免税店散客提货点处；<br/>自驾提货经3号门进入码头①可向左行驶至7--8号码头免税店提货点自驾窗口提货；②或经过5号门和8号门前往11号码头免税店自驾提货处。</p>","shortName":null},{"id":10005,"name":"Q：下单成功后会收到短信通知吗？","content":"<p>下单支付后，若订单成功您会收到由三亚国际免税城发出的下单成功的信息；若订单失败，系统也会短信提示您，为避免影响您的购物，请您及时关注我们的短信提醒，如有问题，可致电客服电话：400-699-6956，我们会竭诚为您服务。</p>","shortName":null},{"id":1065,"name":"Q：提货时需要出示哪些凭证？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">提货时出示提货人身份证、登机牌、火车票或轮渡船票。</span></p>","shortName":null},{"id":1067,"name":"Q：提货时间需要注意哪些？","content":"建议您在登机、火车或轮渡出发时间前60分钟，到达提货处提取商品，避免因高峰期排队等候而延误您的行程。","shortName":null},{"id":1061,"name":"Q：如何开具发票？","content":"购买免税商品，您在办理提货后，关注“cdf离岛免税一三亚国际免税城”官方微信公众号，进入菜单“我的服务--电子发票”自助开具电子发票。","shortName":null}]},{"title":"售后服务","sections":[{"id":1069,"name":"提货前退货","content":"<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.如出现任何原因而导致您在提货点未能提货，按照国家对免税品管理的相关规定，一律以成交价格整包办理退货、退款手续。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.如您提货时发现部分商品质量有问题要求退货，因涉及免税品核销不能对一张提货联中的某个单品进行核销，不可只退部分商品，必须整单退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">您也可以直接致电客服400-699-6956取消订单，经由工作人员确认后，在15个工作日内全额退款。</span></p>","shortName":null},{"id":1071,"name":"提货后退货","content":"<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">请您在办理提货手续前仔细检查商品外观，若当场验货时，发现商品残损、缺件，您可在提货处直接办理退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">当您确认商品无误并成功办理提货手续后，我们将不再承担除国家三包规定之外的任何责任。三包规定内的情况需您提供有效证明（发票、说明书、赠品、购物凭证），并经售后人员核查属实后，为您办理退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">以下情况的退货申请无法受理：</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.过保商品（超过三包保修期的商品）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.未经授权的维修、误用、碰撞、疏忽、滥用、进液、事故、改动、不正确的使用所造成的商品质量问题，或撕毁、涂改标贴、商品序号、防伪标记。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">3.商品三包凭证、发票缺失或涂改。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">4.密封产品原包装打开，一次性封贴或塑封破损（质量问题除外）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">5.产品已使用，但非商品本身质量问题（如：对于颜色、外观、形状、气味、使用效果不满意、商品的正常损耗造成的任何损坏等问题）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">6.其他依法不在退货范围内的。</span><br/></p>","shortName":null}]}],"buyReading":{"id":1055,"name":"温馨提示","content":"<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.三亚国际免税城官方商城所售商品凭保卡可享受厂家提供的品牌联保服务或指定服务商联保服务。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.因屏幕显示与实际商品可能存在色差，请以收到实际商品的颜色为准。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">3.鉴于免税品的特殊性，商品一旦售出概不退、换货。如给您带来不便之处，敬请谅解。如遇质量问题产生的退货邮寄费，将由我们承担。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">4.如您未经我司工作人员同意，擅自将商品退回，由此产生的一切风险均由您自行承担。对于邮件或包裹等物品的签收不视为我司对您退回的商品负有任何责任，必要时售后客服部有权处置您擅自退回的商品。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">5.退货时须将附件、说明书、发票、购物凭证、包装、商品、赠品一并退回我司，方可办理退货手续。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">6.三亚国际免税城官网商城秉承客户至上的服务理念，为您提供最优质的商品及服务。如所售商品因生产工艺或仓储物流原因，可能会存在出现商品破损的几率，如发现请您及时与我司客服中心400-699-6956联系，我司将竭诚为您处理相关事宜。对于任何欺诈性行为，三亚国际免税城官网商城将保留依法追究法律责任的权利。</span></p>","shortName":null},"brandRecommends":null,"isShowBrandInfo":false,"isShowBrand":false,"collect":false,"content":null,"properties":[{"title":"商品编码","val":"E188348"},{"title":"厂商货号","val":"K3G23626"},{"title":"商品名称","val":"CK表Stately系列精钢石英表"},{"title":"品牌名称","val":"Calvin Klin 卡尔文克莱恩"},{"title":"品牌发源地","val":"美国"},{"title":"机芯类型","val":"石英"},{"title":"表盘形状","val":"圆形"},{"title":"表径","val":"34mm"},{"title":"表壳材质","val":"316L钢"},{"title":"表壳颜色","val":"玫瑰金色"},{"title":"表盘颜色","val":"白色"},{"title":"表镜材质","val":"蓝宝石水晶镜面"},{"title":"表带颜色","val":"玫瑰金色"},{"title":"表带材质","val":"316L钢"},{"title":"表扣类型","val":"珠宝扣"},{"title":"防水","val":"30m"},{"title":"功能","val":"时间显示"},{"title":"有无保修卡","val":"有"},{"title":"适合人群","val":"女士"}],"defaultStyleId":271774,"styles":null,"styleDefines":null,"productCode":"E188348","smallPics":["http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_1_pic100_5707.jpg","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_2_pic100_294.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_3_pic100_5162.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_4_pic100_7990.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_5_pic100_9769.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_6_pic100_1691.JPG"],"largePics":["http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_1_pic900_5707.jpg","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_2_pic900_294.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_3_pic900_5162.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_4_pic900_7990.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_5_pic900_9769.JPG","http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/271774_6_pic900_1691.JPG"],"virtualCategoryName":null,"productTag":null,"badges":null},
+	"data":{"id":271774,"styleId":271774,"salesPrice":{"type":0,"name":"免税价","value":"2350.0000"},"contrastPrice":null,"count":1,"saleCount":101,"isSellable":true,"sellerGoodRate":0.0,"isCollect":false,"limitNumber":6,"rules":[{"ruleId":597,"type":2,"label":"满减","ruleName":"此商品专享每满1000减60","topicUrl":"","topicTitle":"此商品专享每满1000减60","discountAmount":0}],"tags":null,"flashSale":null,"stockTips":"","remarkCount":0,"remarks":null,"notes":[],"warehouseAlias":null,"remarkTitle":"","freightDescription":null,"delivery":{"declare":"<strong>三亚</strong>  三亚凤凰机场离岛，至少提前6小时下单<br />\r\n<strong>海口</strong>  海口美兰机场离岛，至少提前1天下单<br />\r\n<strong>注：购买时间视下单时段而定，具体说明请查看详情。</strong> ","content":"<p><img src=\"http://pic.cdfgsanya.com/assets/upload/article/a932e4672cb86fa8dfe548afdddb767d.jpg\" title=\"a932e4672cb86fa8dfe548afdddb767d.jpg\"/></p>","declares":[{"name":"三亚","content":"从三亚凤凰机场离岛，至少提前6小时下单\r\n"},{"name":"海口","content":"从海口美兰机场离岛，至少提前1天下单"},{"name":"琼海","content":"从琼海博鳌机场离岛，至少提前1天下单"},{"name":"注：","content":"购买时间视下单时段而定，具体说明请查看详情"}]},"limitNumberDescription":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\"><strong>购物次数</strong><br/>离岛旅客不限购物次数。<br/><br/><strong>限购额度</strong><br/>每个公历年内，单价人民币8000元以下商品，每年累计购物金额最多不超过人民币30000元（含30000元），此外，单价人民币8000元以上商品，每年限购2件，每人每次限购1件，并在扣减未使用的免税额后缴纳进境物品进口税（行邮税），最高可扣减免税额度为8000元。<br/>（PS.同一旅客在同一年度内乘飞机、乘火车和乘轮船离岛的免税购物金额合计计算，且不得超过离岛免税政策的额度限制规定。）<br/><br/><strong>限购数量</strong><br/>各品类商品限购数量如下：<br/>化妆品12件，香水8件，手表首饰6件，笔6件，小皮件6件，箱包4件，皮带4件，眼镜（含太阳镜）4件，鞋4件，美容仪器4件，家用空气净化器2件等。</span></p><p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-family: 微软雅黑; font-size: 12pt;\"><o:p></o:p></span></p>"},
+	"recommend":{"relateds":[{"id":312681,"defaultGoodsId":0,"name":"cK手表石英K8G23646","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/312681_1_pic400_4787.JPG","stockTips":null,"salesCount":103,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1950.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":2,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":312681,"goodsId":312681,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":401977,"defaultGoodsId":0,"name":"CK石英手表K3M211C3","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/2674aa0d84a7ac05d78a7e8d360d2e34_400x400.JPG","stockTips":null,"salesCount":102,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1300.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1680.0000","isShowPrice":null},"count":2,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":401977,"goodsId":401978,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":332382,"defaultGoodsId":0,"name":"CK手表石英K8G23626","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/332382_1_pic400_5614.JPG","stockTips":null,"salesCount":102,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1950.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":3,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":332382,"goodsId":332382,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":296853,"defaultGoodsId":0,"name":"cK手表石英K8G23126","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/296853_1_pic400_2474.JPG","stockTips":null,"salesCount":102,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1600.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1850.0000","isShowPrice":null},"count":2,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":296853,"goodsId":296853,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":283308,"defaultGoodsId":0,"name":"CK手表DRIFT系列石英K6S2N616","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/283308_1_pic400_1675.JPG","stockTips":null,"salesCount":101,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"2250.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":2,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":283308,"goodsId":283308,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":348675,"defaultGoodsId":0,"name":"CK手表石英K8N23646","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/348675_1_pic400_4813.JPG","stockTips":null,"salesCount":100,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"2350.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":1,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":348675,"goodsId":348675,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null}],"samekinds":[{"id":349499,"defaultGoodsId":0,"name":"DW精钢石英表Petite节日款DW00500093","brandId":251537,"brand":"丹尼尔 惠灵顿","brandEN":"Daniel Wellington","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/349499_5_pic400_4745.JPG","stockTips":null,"salesCount":108,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1250.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1450.0000","isShowPrice":null},"count":7,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":349499,"goodsId":349499,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":289360,"defaultGoodsId":0,"name":"DW精钢石英表DW00100161","brandId":251537,"brand":"丹尼尔 惠灵顿","brandEN":"Daniel Wellington","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/289360_1_pic400_5183.jpg","stockTips":null,"salesCount":106,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1160.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1420.0000","isShowPrice":null},"count":3,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":289360,"goodsId":289360,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":337793,"defaultGoodsId":0,"name":"DW石英表DW00100220","brandId":251537,"brand":"丹尼尔 惠灵顿","brandEN":"Daniel Wellington","pic":"http://pic.cdfgsanya.com/assets/upload/product/13c3e6db54e1dbc86585883c96919974_400x400.png","stockTips":null,"salesCount":104,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1070.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1420.0000","isShowPrice":null},"count":1,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":337793,"goodsId":337793,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":312681,"defaultGoodsId":0,"name":"cK手表石英K8G23646","brandId":248411,"brand":"卡尔文克莱恩","brandEN":"Calvin Klein","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/312681_1_pic400_4787.JPG","stockTips":null,"salesCount":103,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1950.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":2,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":312681,"goodsId":312681,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":298811,"defaultGoodsId":0,"name":"斯沃琪手表石英LP150","brandId":249033,"brand":"斯沃琪","brandEN":"SWATCH","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225511/228634/228636/298811_1_pic400_4659.JPG","stockTips":null,"salesCount":103,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"385.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"450.0000","isShowPrice":null},"count":2,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":298811,"goodsId":298811,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":401517,"defaultGoodsId":0,"name":"斯沃琪石英手表LW161","brandId":249033,"brand":"斯沃琪","brandEN":"SWATCH","pic":"http://pic.cdfgsanya.com/assets/upload/product/807bd43098c1dc2d46df6a236fcdad21_400x400.JPG","stockTips":null,"salesCount":102,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"460.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"490.0000","isShowPrice":null},"count":3,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":401517,"goodsId":401518,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null}],"maylikes":[],"recommendations":[]}
+}

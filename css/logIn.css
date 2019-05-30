@@ -1,0 +1,413 @@
+input,button{
+	border: none;
+	outline: none;
+	font-size: 12px;
+}
+/*顶部*/
+.contentsWarp{
+	width: 100%;
+	height: 100%;
+	background: #FFFFFF;
+}
+.headerWarps{
+	width: 100%;
+	height: 156px;
+}
+/*内容*/
+.contents{
+	width: 1200px;
+	height: 449px;
+	margin: 0 auto;
+}
+.lonInLefDdiv{
+	float: left;
+	width: 810px;
+	height: 449px;
+	padding: 47px 50px 27px 100px;
+	box-sizing: border-box;
+}
+.lonInLefDdiv img{
+	width: 660px;
+    height: 370px;
+}
+.lonInRightDdiv{
+	float: left;
+	width: 390px;
+	height: 391px;
+    padding-top: 40px;
+    padding-bottom: 27px;
+    /*margin-right: -90px;*/
+   box-sizing: border-box;
+}
+.login_form{
+	width: 390px;
+	height: 267px;
+}
+.login_form p{
+	font-size: 16px;
+    line-height: 48px;
+    color: #b81c22;
+}
+.logswitch{
+	height: 18px;
+}
+.logswitch_way{
+	float: left;
+	cursor: pointer;
+    margin-right: 30px;
+    color: #000;
+}
+.logswitch_way i{
+	float: left;
+	width: 17px;
+	height: 17px;
+	background: url(../img/下载21.png) no-repeat;
+	margin-right: 2px;
+	background-position: 0px 0;
+}
+.logswitch_way .slect{
+	background-position: -20px 0;
+}
+.logswitch_way span{
+	float: left;
+}
+.panels{
+	margin-top:10px ;
+}
+.mobile{
+	position: relative;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 32px;
+    color: #999;
+}
+.mobile i{
+	position: absolute;
+	width: 11px;
+	height: 19px;
+	background: url(../img/下载21.png) -42px 0 no-repeat;
+	top: 5px;
+	left: 10px;
+}
+.mobile .newicon{
+	position: absolute;
+	top: 3px;
+    left: 6px;
+	width: 18px;
+    height: 19px;
+	background: url(../img/land.9a36bea3.png) -2px -2px no-repeat;
+}
+.phone_border{
+	float: left;
+	width: 248px;
+	height: 30px;
+	border: 1px solid #b6b8b7;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+.login_password{
+	width: 100%;
+	height: 32px;
+	margin-bottom: 15px;
+	position: relative;
+}
+.mobile b{
+	display: block;
+	width: 18px;
+	height: 19px;
+	position: absolute;
+	background: url(../img/land.9a36bea3.png)-25px -18px no-repeat;
+	left: 226px;
+	top: 4px;
+	display: none;
+}
+.mobile .phonetrue{
+	background-position: -25px 0 ;
+}
+.password_border{
+	float: left;
+	width: 250px;
+	height: 32px;
+	border: 1px solid #b6b8b7;
+	padding: 5px 10px;
+	padding-left: 30px;
+	box-sizing: border-box;
+}
+.hint{
+	float:left;
+	margin-top: 6px;
+	margin-left: 10px;
+	color: #f00f00;
+	display: none;
+}
+.newhint{
+	float:left;
+	margin-top: 6px;
+	margin-left: 10px;
+	color: #f00f00;
+	display: none;
+}
+.password_border input{
+	line-height: 20px;
+}
+.login_password i{
+	position: absolute;
+	top: 6px;
+    left: 6px;
+	width: 18px;
+    height: 19px;
+	background: url(../img/land.9a36bea3.png) -2px -29px no-repeat;
+}
+.login_password b{
+	width: 18px;
+    height: 19px;
+    position: absolute;
+    background: url(../img/land.9a36bea3.png)-25px -18px no-repeat;
+    left: 226px;
+    top: 4px;
+    display: none;
+}
+.login_password .passwordtrue{
+	background-position: -25px 0 ;
+}
+.auth_code{
+	margin-bottom: 15px;
+	height: 32px;
+	color: #999;
+	position: relative;
+}
+.write_code{
+	float: left;
+	width: 140px;
+	height: 32px;
+	box-sizing: border-box;
+	border: 1px solid #B6B8B7;
+	padding: 5px 10px;
+	padding-left: 30px;
+}
+.write_code input{
+	width: 100%;
+	height: 20px;
+}
+#send_code{
+	float: left;
+	width: 100px;
+	height: 32px;
+	margin-left: 10px;
+}
+#send_code button{
+	width: 100px;
+	height: 32px;
+	color: #FFFFFF;
+	cursor: pointer;
+	background: rgb(184, 28, 34);
+	font-size: 12px;
+	line-height: 32px;
+}
+#send_code img{
+	width: 76px;
+	height: 32px;
+}
+.refresh{
+	float: left;
+	width: 16px;
+	height: 15px;
+	cursor: pointer;
+	margin-top: 10px;
+	background: url(../img/land.9a36bea3.png)-25px -38px no-repeat;
+}
+.bar{
+	height: 16px;
+    margin: 15px 0 17px;
+}
+.bar_name{
+	width: 86px;
+	height: 18px;
+	float: left;
+	cursor: pointer;
+}
+.no_password{
+	float: left;
+	cursor: pointer;
+}
+.no_password a{
+	display: block;
+	margin-left:105px ;
+}
+.bar_name i{
+	float: left;
+	margin-top: 2px;
+	width: 13px;
+	height: 13px;
+	background: url(../img/下载22.png)0 0 no-repeat;
+}
+.bar_name .checkbox{
+	background-position: -14px 0;
+}
+.bar_name span{
+	float: left;
+	margin-left: 13px;
+}
+.login{
+	width: 250px;
+	height: 32px;
+}
+.login>button{
+	width: 100%;
+	height: 100%;
+	font-size: 16px;
+	text-align: center;
+	color: #FFFFFF;
+	cursor: pointer;
+	background-color:#b81c22 ;
+	line-height: 32px;
+}
+.login>button:hover{
+	background-color:#95171b ;
+}
+.no_vip{
+	height: 28px;
+    margin-top: 4px;
+    color: #999;
+    font-size: 12px;
+    line-height: 28px;
+}
+.no_vip a{
+	margin-left: 6px;
+    color: #b81c22;
+    cursor: pointer;
+}
+.no_vip a:hover{
+	color: #ce2023;
+}
+.anther{
+	height: 47px;
+	margin-top: 10px;
+}
+.anther_login{
+	height: 18px;
+	margin-bottom: 11px;
+}
+.weibo_else{
+	height: 18px;
+}
+.weibo{
+	float: left;
+	position: relative;
+    padding:0 20px;
+    line-height: 18px;
+    cursor: pointer;
+}
+.weibo:hover{
+	color: #b81c22;
+}
+.weibo i{
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 0;
+	left: 0;
+}
+.weibo .weibo_logo{
+	background: url(../img/下载23.png)-10px -16px no-repeat;
+}
+.weibo .zhifu_logo{
+	background: url(../img/下载23.png)-98px -16px no-repeat;
+}
+/*底部*/
+.footerWarp{
+	padding-bottom: 40px;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    height: 373px;
+}
+.right_nav{
+	display: none;
+}
+/*遮罩层*/
+.falseAlert{
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.5;
+	position: absolute;
+	top: 0 ;
+	left: 0;
+	z-index: 1024;
+}
+.codeAlert{
+	width: 304px;
+	height: 120px;
+	background: #FFFFFF;
+	border: 1px solid #b81c22;
+	position: absolute;
+	top: 0;left: 0;right: 0;bottom: 0;
+	margin: auto;
+	z-index: 1025;
+}
+.codeH{
+	height: 105px;
+}
+.codeH_top{
+	height: 24px;
+	background: #b81c22;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+.codeH_top span{
+	font-size: 12px;
+    margin-left: 8px;
+}
+.codeH_top button{
+	float: right;
+	width: 24px;
+	height: 24px;
+	margin-right: 9px;
+	background: #b81c22;
+	color: #FFFFFF;
+	cursor: pointer;
+	position: relative;
+}
+.codeH_top button:after{
+	content: "";
+	display: block;
+	position: absolute;
+	right: 28px;
+	top: 7px;
+	width: 12px;
+	height: 12px;
+	background: url(../img/下载24.png)0 -42px no-repeat;
+}
+.codeH_Mid{
+	line-height: 21px;
+    margin-top: 11px;
+    overflow: hidden;
+    color: #030303;
+    padding: 11px 17px 0 12px;
+    text-align: center;
+}
+.codeH_Bo{
+	height: 26px;
+	margin-top: 12px;
+    margin-bottom: 15px;
+}
+.codeH_Bo button{
+	float: right;
+    width: 54px;
+    height: 26px;
+    margin-right: 10px;
+    cursor: pointer;
+    background: #b81c22;
+    border-color: #b81c22;
+    color: #fff;
+}
+.vessel{
+	width: 100%;
+	/*height: 100vh;*/
+	height: 978px;
+	display: none;
+	position: absolute;
+	top: 0;
+	z-index: 200;
+}

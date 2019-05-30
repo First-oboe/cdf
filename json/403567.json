@@ -1,0 +1,162 @@
+{
+	"items": [
+		{
+			"id": 403448,
+			"goodsId": 403449,
+			"styleId": 403448,
+			"warehouseId": 1,
+			"name": "肌肤之钥沁肌紧肤蜜两只装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/4f2e2bd0257e0e0bba0f307be24ddb85_400x400.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "914.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "1100.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:47:40",
+			"shelfStatus": 1,
+			"count": 52,
+			"isSellable": true,
+			"brand": "肌肤之钥",
+			"brandEN": "Clé de Peau Beauté",
+			"brandId": 248791
+		}, {
+			"id": 403329,
+			"goodsId": 403330,
+			"styleId": 403329,
+			"warehouseId": 1,
+			"name": "倩碧活芯乳两支装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/11e2121c79249b05a9a3460bb4e6eafe_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "482.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "630.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:47:40",
+			"shelfStatus": 1,
+			"count": 319,
+			"isSellable": true,
+			"brand": "倩碧",
+			"brandEN": "CLINIQUE",
+			"brandId": 248271
+		}, {
+			"id": 402801,
+			"goodsId": 402802,
+			"styleId": 402801,
+			"warehouseId": 1,
+			"name": "茱莉蔻玫瑰衡肤花卉水沁润限量版",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/c9d9799b5f2b5a802dcedd7a6b64d74b_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "413.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "600.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:47:40",
+			"shelfStatus": 1,
+			"count": 62,
+			"isSellable": true,
+			"brand": "茱莉蔻",
+			"brandEN": "Jurlique",
+			"brandId": 248307
+		}, {
+			"id": 401958,
+			"goodsId": 401959,
+			"styleId": 401958,
+			"warehouseId": 1,
+			"name": "后拱辰享水沄套装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/4ebd7190065dd5f08cfebccd89af561d_400x400.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "745.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": null,
+			"browsingTime": "2019-05-21 11:47:40",
+			"shelfStatus": 1,
+			"count": 106,
+			"isSellable": true,
+			"brand": "后",
+			"brandEN": "Whoo",
+			"brandId": 248913
+		}, {
+			"id": 402761,
+			"goodsId": 402762,
+			"styleId": 402761,
+			"warehouseId": 1,
+			"name": "天梭DRESS SPORT系列机械T050.207.11.117.05",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/3a87996a3c6a48cc00dd6ff698c5a1f2_400x400.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "4700.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "5600.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:47:40",
+			"shelfStatus": 1,
+			"count": 2,
+			"isSellable": true,
+			"brand": "天梭",
+			"brandEN": "TISSOT",
+			"brandId": 248458
+		}, {
+			"id": 284721,
+			"goodsId": 284721,
+			"styleId": 284721,
+			"warehouseId": 1,
+			"name": "兰蔻新精华肌底液两只装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/324beeefe32bf8ad997633709997cdb2_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "1960.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "3200.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:47:40",
+			"shelfStatus": 1,
+			"count": 36,
+			"isSellable": true,
+			"brand": "兰蔻",
+			"brandEN": "LANCOME",
+			"brandId": 248137
+		}
+	],
+	"total": 17,
+	"page": 1,
+	"nav":[{"id":225510,"name":"美妆"},{"id":228586,"name":"护肤"},{"id":248170,"name":"套装"},{"id":251337,"name":"Fresh 馥蕾诗"},{"id":403566,"name":"馥蕾诗玫瑰沁润明星套装"}],
+	"detail":{"id":403566,"name":"馥蕾诗玫瑰沁润明星套装","nameEN":"FRESH TRAVEL RETAIL SET #13 ROSE RITUAL SET","brand":{"id":251337,"initial":"FU","name":"馥蕾诗","nameEN":"Fresh","log":"http://pic.cdfgsanya.com/assets/upload/brandlogo/2017/1/24/20170124105959976.jpg","url":"","title":"","banner":"http://pic.cdfgsanya.com/assets/upload/brandlogo/4808c3bf939b8af08c8efa81c3baa5f0.jpg","country":{"name":"美国","nameEN":"USA","log":"http://pic.cdfgsanya.com/assets/upload/country/d215151a113ad0239f75233f73d83ecc.png"},"productCount":60,"description":"Lev Glazman先生与Alina Roytberg女士共同创造了一份“完美”礼物；他们亲手用极富艺术感的纸张将一块块香皂包裹起来，用纤细的金属细丝固定，最后镶缀上一颗半宝石。它们的馥郁芬芳与奢润，开始了Fresh的美颜之旅。诞生在波士顿，成长于纽约。Fresh传承至今发展成为拥有护肤、美体、香氛、护发、家居系列产品的生活方式品牌。"},"pics":["http://pic.cdfgsanya.com/assets/upload/product/917548633ae1cf3386fc942a4b11da5b_500x500.JPG","http://pic.cdfgsanya.com/assets/upload/product/ccf3d4b2c9d8adf7c330cd9e49acfb7a_500x500.JPG","http://pic.cdfgsanya.com/assets/upload/product/26d2baf08238c5ed2f0f94ea0f0fac87_500x500.JPG"],"description":"明星套装","details":"<div style=\"background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-size: 12px;\" microsoft=\"\"><!---- 商品介绍 ----><div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px; margin:10px 0 0; color:#333; font-size:14px;\"><span style=\" padding-left:10px;\">商品介绍<em style=\"color:#ccc; padding-left:10px;  font-style:normal;\">COMMODITY INTRODUCTION</em></span></div><div style=\"text-align:center;\"><img src=\"http://pic.cdfgsanya.com/assets/upload/productdetail/aa0aece42ac076c316d0f783776ae3fc.jpg\"/></div><div style=\" padding:0 10px ;line-height:1.5em;\"><h2 style=\"font-size:14px; font-weight:normal;line-height:2em; color:#333\">1.【馥蕾诗玫瑰润泽密集保湿面霜 50ML】</h2>玫瑰面霜具有清爽、舒缓效果，秘密源自纯正玫瑰花水，其紧致舒缓功效于古时开始已被广泛使用。蕴含浓缩滋养精华，清新水漾质感令肌肤水润亮泽、焕发神采。<br/>使用方法：洁面后，取适量涂抹于脸部，避开眼部区域。可以每天使用，早上和晚上。<br/><h2 style=\"font-size:14px; font-weight:normal;line-height:2em; color:#333\">2.【馥蕾诗玫瑰润泽密集保湿精华露 30ML】</h2>玫瑰润泽密集保湿精华露融合多种保湿成分，层层沁透，为肌肤注入全新活力，带来实时且长时间的保湿功效，缔造水润透亮美肌，适合各种肌肤使用。用后肌肤变得柔软水润，焕发光泽，打造年轻面貌。 <br/>使用方法：一天两次用于洁净的肌肤， 早晚使用。<br/><h2 style=\"font-size:14px; font-weight:normal;line-height:2em; color:#333\">3.【馥蕾诗大马士革玫瑰花瓣水 250ML】</h2>蕴含真实的玫瑰花瓣，为肌肤补充水分的同时细致毛孔，舒缓肌肤，改善肤质。令肌肤如花瓣一般，再现水润舒缓、细致柔嫩的肌肤，并为后续的护肤步骤做好准备。<br/>使用方法：每日早晚洁净肌肤后，以化妆棉或指尖沾取适量玫瑰花瓣水，轻柔扫过面部与颈部。</div><!---- 注意事项 ----><div style=\" width:100%;font-size:14px; color:#333; height:30px; line-height:30px; background:#f7f7f7;\"><strong style=\" padding-left:10px;\">保管说明及注意事项：</strong></div><div style=\" padding:10px;color:#666;line-height:20px;\">1.使用后请盖好盖。<br/>2.保管时请放置于婴幼儿碰不到的地方。<br/>3.请勿放置到高温或阳光暴晒的地方。<br/>4.使用化妆品过程中出现红斑，红肿，痒，刺激等异常情况，请立即停止使用该产品并向皮肤科医生进行相关咨询。 <br/>5.有伤痕处，湿疹及皮肤炎等皮肤问题的情况下请勿使用。 <br/>6.如不慎进入眼睛，请即刻用大量清水冲洗并咨询医生。<span style=\" color:#000000; padding-top:5px; display:block;\">温馨提示：<br/>1.护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<br/>2.因商品产地及批次不同，外包装会有所变化。商品功效及成分不变，请放心使用。<br/>3.因屏幕显示与实际商品可能存在色差，请以收到实际商品的颜色为准。<br/>4.产品中文名称请参考各产品外包装中文标签。 </span></div><!---- 品牌故事 ----><div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px; margin:10px 0 0; color:#333;  font-size:14px;\"><span style=\"padding-left:10px;\">品牌故事<em style=\"color:#ccc; padding-left:10px; font-style:normal;\">BRAND INTRODUCTION</em></span></div><div style=\"width:100%; text-align:left;overflow:hidden;\"><div style=\"margin:0; padding:10px;line-height:20px;\">Lev Glazman先生与Alina Roytberg女士共同创造了一份“完美”礼物；他们亲手用极富艺术感的纸张将一块块香皂包裹起来，用纤细的金属细丝固定，最后镶缀上一颗半宝石。它们的馥郁芬芳与奢润，开始了Fresh的美颜之旅。诞生在波士顿，成长于纽约。Fresh传承至今发展成为拥有护肤、美体、香氛、护发、家居系列产品的生活方式品牌。</div></div></div>","detailsEN":"","faqs":[{"title":"常见问题","sections":[{"id":1028,"name":"Q：购买时间有什么要求吗？","content":"旅客购买免税品时间距离离岛时间不能超过<strong>30</strong>天。<br/>1.<strong>三亚凤凰机场</strong>，航班出发时间要求如下：<br/>00:00--10:00之间购买，<strong>当</strong>日16:00之后<br/>10:00--21:00之间购买，提前6小时下单<br/>21:00--00:00之间购买，<strong>次</strong>日16:00之后<br/>2.<strong>海口美兰机场、海口火车站</strong>，航班/火车出发时间要求如下：<br/>00:00--09:00之间购买，<strong>次</strong>日08:00之后<br/>09:00--21:00之间购买，<strong>次</strong>日08:00之后<br/>21:00--00:00之间购买，<strong>后</strong>天08:00之后<br/>3.<strong>琼海博鳌机场</strong>，航班出发时间要求如下：<br/>00:00--09:00之间购买，<strong>次</strong>日11:00之后<br/>09:00--21:00之间购买，<strong>次</strong>日11:00之后<br/>21:00--00:00之间购买，<strong>后</strong>天11:00之后<br/>4.<strong style=\"white-space: normal;\">新海港、秀英港</strong>，轮渡出发时间要求如下：<br style=\"white-space: normal;\"/>00:00--09:00之间购买，<strong style=\"white-space: normal;\">次</strong>日08:00之后<br style=\"white-space: normal;\"/>09:00--21:00之间购买，<strong style=\"white-space: normal;\">次</strong>日08:00之后<br style=\"white-space: normal;\"/>21:00--00:00之间购买，<strong style=\"white-space: normal;\">后</strong>天08:00之后","shortName":null},{"id":1035,"name":"Q：在官网购买免税品需要满足什么条件？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">年满16周岁的中国公民且需持有离岛但不离境的机票、火车票或轮渡船票。</span></p>","shortName":null},{"id":1036,"name":"Q：还没有订机票、火车票或轮渡船票，可以购买吗？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">不可以，根据离岛免税政策规定，必须持有正确的离岛航班信息、火车票或轮渡船票信息才能购买。</span></p>","shortName":null},{"id":1022,"name":"Q：飞机航班、火车车次或轮渡班次变更或改签，怎么办？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">若您乘坐的飞机航班、火车车次或轮渡班次变更或改签，请至少在原行程出发前24小时联系客服（400-699-6956）更改，否则可能导致您无法提货，只能申请退货。</span></p>","shortName":null},{"id":10003,"name":"Q：市场价、划线价、促销价指的是什么？","content":"1、<strong>市场价、划线价</strong>：商品展示的划线价或市场价可能是品牌官网价、品牌专柜价、有税零售价；由于地区、时间的差异性和市场行情波动，品牌官网价、品牌专柜价、商品吊牌价等可能会与您购物时展示的不一致，该价格仅供您参考。<p>2、<strong>促销价</strong>：如无特殊说明，促销价是在免税价基础上给予的优惠价格。如有疑问，您可以在购买前与客服联系。<br/></p><p>3、<strong>价格异常</strong>：因可能存在系统缓存、页面更新延迟等不确定性情况，导致价格显示异常，商品具体售价请以订单结算页价格为准。如您发现异常情况出现，请立即联系我们修正，以便您能顺利购物。<br/></p>","shortName":null},{"id":1037,"name":"Q：限购数量是怎么回事？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">国家规定每人每次购买免税品按照不同类别不得超出相应数量（例如化妆品12件、香水8件、手表、首饰6件、箱包、配饰4件，家用空气净化器2件等）。</span></p>","shortName":null},{"id":1057,"name":"Q：购物次数、限购额度是怎么回事？","content":"<p>﻿1、购物次数：离岛旅客不限购物次数。</p><p>2、限购额度：每个公历年内，单价人民币8000元以下商品，累计购物金额不超过人民币30000元（含30000元），此外，单价人民币8000元以上商品，每年限购2件，每人每次限购1件，并在扣减未使用的免税额后缴纳进境物品进口税（行邮税），最高扣减免税额度为8000元。</p><p>（PS.同一旅客在同一年度内乘飞机、乘火车和乘轮船免税购物金额合计计算，且不得超过离岛免税政策的额度限制规定。）</p>","shortName":null},{"id":1059,"name":"Q：不同免税店购买，免税额度是分别计算的吗？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">离岛一次，计一次购买次数，只要在离岛免税店购物，就会消耗本次购买机会的免税额度。飞机、火车和轮渡离岛限购额度与限购数量同享，购买免税品的限制以身份证计算，三种方式离岛均会消耗免税额度。</span></p>","shortName":null},{"id":1063,"name":"Q：官网购买后，怎么提货呢？","content":"<p><strong>1. 乘坐飞机离岛</strong>：在离岛机场隔离区cdf提货点取货，可直接带上飞机。<br/>（三亚凤凰机场在国内出发厅215号登机口对面；海口美兰机场在国内出发厅15号登机口旁；琼海博鳌机场在国内出发厅2楼1号登机口旁。）</p><p><strong>2. 乘坐火车离岛</strong>：<br/>从三亚、东方火车站出发：火车到达海口火车站后，在站台处三亚国际免税城提货点提货；<br/>从海口火车站出发：在海口火车站站内三亚国际免税城提货点提货。<br/><strong style=\"white-space: normal;\">3. 轮渡离岛</strong>：<br style=\"white-space: normal;\"/>从新海港出发：<br/>散客提货进入安检后右转5米免税店散客提货点处；<br/>自驾提货通过车辆检票口后行至小车安检站右转50米免税店自驾提货点处。</p><p>从秀英港出发：<br/>散客提货安检后左转免税店散客提货点处；<br/>自驾提货经3号门进入码头①可向左行驶至7--8号码头免税店提货点自驾窗口提货；②或经过5号门和8号门前往11号码头免税店自驾提货处。</p>","shortName":null},{"id":10005,"name":"Q：下单成功后会收到短信通知吗？","content":"<p>下单支付后，若订单成功您会收到由三亚国际免税城发出的下单成功的信息；若订单失败，系统也会短信提示您，为避免影响您的购物，请您及时关注我们的短信提醒，如有问题，可致电客服电话：400-699-6956，我们会竭诚为您服务。</p>","shortName":null},{"id":1065,"name":"Q：提货时需要出示哪些凭证？","content":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">提货时出示提货人身份证、登机牌、火车票或轮渡船票。</span></p>","shortName":null},{"id":1067,"name":"Q：提货时间需要注意哪些？","content":"建议您在登机、火车或轮渡出发时间前60分钟，到达提货处提取商品，避免因高峰期排队等候而延误您的行程。","shortName":null},{"id":1061,"name":"Q：如何开具发票？","content":"购买免税商品，您在办理提货后，关注“cdf离岛免税一三亚国际免税城”官方微信公众号，进入菜单“我的服务--电子发票”自助开具电子发票。","shortName":null}]},{"title":"售后服务","sections":[{"id":1069,"name":"提货前退货","content":"<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.如出现任何原因而导致您在提货点未能提货，按照国家对免税品管理的相关规定，一律以成交价格整包办理退货、退款手续。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.如您提货时发现部分商品质量有问题要求退货，因涉及免税品核销不能对一张提货联中的某个单品进行核销，不可只退部分商品，必须整单退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">您也可以直接致电客服400-699-6956取消订单，经由工作人员确认后，在15个工作日内全额退款。</span></p>","shortName":null},{"id":1071,"name":"提货后退货","content":"<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">请您在办理提货手续前仔细检查商品外观，若当场验货时，发现商品残损、缺件，您可在提货处直接办理退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">当您确认商品无误并成功办理提货手续后，我们将不再承担除国家三包规定之外的任何责任。三包规定内的情况需您提供有效证明（发票、说明书、赠品、购物凭证），并经售后人员核查属实后，为您办理退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">以下情况的退货申请无法受理：</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.过保商品（超过三包保修期的商品）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.未经授权的维修、误用、碰撞、疏忽、滥用、进液、事故、改动、不正确的使用所造成的商品质量问题，或撕毁、涂改标贴、商品序号、防伪标记。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">3.商品三包凭证、发票缺失或涂改。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">4.密封产品原包装打开，一次性封贴或塑封破损（质量问题除外）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">5.产品已使用，但非商品本身质量问题（如：对于颜色、外观、形状、气味、使用效果不满意、商品的正常损耗造成的任何损坏等问题）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">6.其他依法不在退货范围内的。</span><br/></p>","shortName":null}]}],"buyReading":{"id":1055,"name":"温馨提示","content":"<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.三亚国际免税城官方商城所售商品凭保卡可享受厂家提供的品牌联保服务或指定服务商联保服务。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.因屏幕显示与实际商品可能存在色差，请以收到实际商品的颜色为准。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">3.鉴于免税品的特殊性，商品一旦售出概不退、换货。如给您带来不便之处，敬请谅解。如遇质量问题产生的退货邮寄费，将由我们承担。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">4.如您未经我司工作人员同意，擅自将商品退回，由此产生的一切风险均由您自行承担。对于邮件或包裹等物品的签收不视为我司对您退回的商品负有任何责任，必要时售后客服部有权处置您擅自退回的商品。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">5.退货时须将附件、说明书、发票、购物凭证、包装、商品、赠品一并退回我司，方可办理退货手续。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">6.三亚国际免税城官网商城秉承客户至上的服务理念，为您提供最优质的商品及服务。如所售商品因生产工艺或仓储物流原因，可能会存在出现商品破损的几率，如发现请您及时与我司客服中心400-699-6956联系，我司将竭诚为您处理相关事宜。对于任何欺诈性行为，三亚国际免税城官网商城将保留依法追究法律责任的权利。</span></p>","shortName":null},"brandRecommends":null,"isShowBrandInfo":false,"isShowBrand":false,"collect":false,"content":null,"properties":[{"title":"商品编码","val":"C044702"},{"title":"厂商货号","val":"H00005214"},{"title":"商品名称","val":"馥蕾诗玫瑰沁润明星套装"},{"title":"品牌名称","val":"Fresh 馥蕾诗"},{"title":"品牌发源地","val":"美国"},{"title":"规格","val":"250ML+50ML+30ML"},{"title":"保质期","val":"见外包装"},{"title":"适合肤质","val":"所有肤质"},{"title":"功效","val":"滋润、保湿、舒缓"}],"defaultStyleId":403566,"styles":null,"styleDefines":null,"productCode":"C044702","smallPics":["http://pic.cdfgsanya.com/assets/upload/product/917548633ae1cf3386fc942a4b11da5b_100x100.JPG","http://pic.cdfgsanya.com/assets/upload/product/ccf3d4b2c9d8adf7c330cd9e49acfb7a_100x100.JPG","http://pic.cdfgsanya.com/assets/upload/product/26d2baf08238c5ed2f0f94ea0f0fac87_100x100.JPG"],"largePics":["http://pic.cdfgsanya.com/assets/upload/product/917548633ae1cf3386fc942a4b11da5b_900x900.JPG","http://pic.cdfgsanya.com/assets/upload/product/ccf3d4b2c9d8adf7c330cd9e49acfb7a_900x900.JPG","http://pic.cdfgsanya.com/assets/upload/product/26d2baf08238c5ed2f0f94ea0f0fac87_900x900.JPG"],"virtualCategoryName":null,"productTag":null,"badges":null},
+	"data":{"id":403567,"styleId":403566,"salesPrice":{"type":0,"name":"免税价","value":"758.0000"},"contrastPrice":{"type":4,"name":"市场价","value":"1080.0000"},"count":90,"saleCount":125,"isSellable":true,"sellerGoodRate":0.0,"isCollect":false,"limitNumber":12,"rules":[{"ruleId":597,"type":2,"label":"满减","ruleName":"此商品专享每满1000减60","topicUrl":"","topicTitle":"此商品专享每满1000减60","discountAmount":0}],"tags":null,"flashSale":null,"stockTips":"","remarkCount":0,"remarks":null,"notes":[],"warehouseAlias":null,"remarkTitle":"","freightDescription":null,"delivery":{"declare":"<strong>三亚</strong>  三亚凤凰机场离岛，至少提前6小时下单<br />\r\n<strong>海口</strong>  海口美兰机场离岛，至少提前1天下单<br />\r\n<strong>注：购买时间视下单时段而定，具体说明请查看详情。</strong> ","content":"<p><img src=\"http://pic.cdfgsanya.com/assets/upload/article/a932e4672cb86fa8dfe548afdddb767d.jpg\"/></p>","declares":[{"name":"三亚","content":"从三亚凤凰机场离岛，至少提前6小时下单\r\n"},{"name":"海口","content":"从海口美兰机场离岛，至少提前1天下单"},{"name":"琼海","content":"从琼海博鳌机场离岛，至少提前1天下单"},{"name":"注：","content":"购买时间视下单时段而定，具体说明请查看详情"}]},"limitNumberDescription":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\"><strong>购物次数</strong><br/>离岛旅客不限购物次数。<br/><br/><strong>限购额度</strong><br/>每个公历年内，单价人民币8000元以下商品，每年累计购物金额最多不超过人民币30000元（含30000元），此外，单价人民币8000元以上商品，每年限购2件，每人每次限购1件，并在扣减未使用的免税额后缴纳进境物品进口税（行邮税），最高可扣减免税额度为8000元。<br/>（PS.同一旅客在同一年度内乘飞机、乘火车和乘轮船离岛的免税购物金额合计计算，且不得超过离岛免税政策的额度限制规定。）<br/><br/><strong>限购数量</strong><br/>各品类商品限购数量如下：<br/>化妆品12件，香水8件，手表首饰6件，笔6件，小皮件6件，箱包4件，皮带4件，眼镜（含太阳镜）4件，鞋4件，美容仪器4件，家用空气净化器2件等。</span></p><p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-family: 微软雅黑; font-size: 12pt;\"><o:p></o:p></span></p>"},
+	"recommend":{"relateds":[{"id":348168,"defaultGoodsId":0,"name":"馥蕾诗红茶紧致润养日夜面膜套装","brandId":251337,"brand":"馥蕾诗","brandEN":"Fresh","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/348168_1_pic400_4489.jpg","stockTips":null,"salesCount":183,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1105.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1350.0000","isShowPrice":null},"count":30,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":348168,"goodsId":348168,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":289675,"defaultGoodsId":0,"name":"馥蕾诗澄糖亮颜磨砂面膜套装","brandId":251337,"brand":"馥蕾诗","brandEN":"Fresh","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/289675_2_pic400_7454.JPG","stockTips":null,"salesCount":169,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"722.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1080.0000","isShowPrice":null},"count":72,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":289675,"goodsId":289675,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":349281,"defaultGoodsId":0,"name":"馥蕾诗大豆精萃卸妆洁颜凝露两只装","brandId":251337,"brand":"馥蕾诗","brandEN":"Fresh","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/349281_1_pic400_6882.JPG","stockTips":null,"salesCount":165,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"475.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"640.0000","isShowPrice":null},"count":147,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":349281,"goodsId":349281,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":348794,"defaultGoodsId":0,"name":"馥蕾诗红茶塑颜御龄礼盒","brandId":251337,"brand":"馥蕾诗","brandEN":"Fresh","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/348794_1_pic400_2590.JPG","stockTips":null,"salesCount":133,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1540.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"2000.0000","isShowPrice":null},"count":76,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":348794,"goodsId":348794,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":348166,"defaultGoodsId":0,"name":"馥蕾诗澄糖甜美润唇礼盒","brandId":251337,"brand":"馥蕾诗","brandEN":"Fresh","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/348166_1_pic400_9774.jpg","stockTips":null,"salesCount":122,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"425.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"520.0000","isShowPrice":null},"count":11,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":348166,"goodsId":348166,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":348165,"defaultGoodsId":0,"name":"馥蕾诗澄糖臻润护唇膏套装","brandId":251337,"brand":"馥蕾诗","brandEN":"Fresh","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/348165_1_pic400_3928.jpg","stockTips":null,"salesCount":121,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"485.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"550.0000","isShowPrice":null},"count":3,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":348165,"goodsId":348165,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null}],"samekinds":[{"id":400177,"defaultGoodsId":0,"name":"特润修护精华眼霜双支装","brandId":248152,"brand":"雅诗兰黛","brandEN":"Estée Lauder","pic":"http://pic.cdfgsanya.com/assets/upload/product/ac4e21507bac15cbcf610a1382c39ef9_400x400.jpg","stockTips":null,"salesCount":4101,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"692.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"850.0000","isShowPrice":null},"count":626,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":400177,"goodsId":400178,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":348786,"defaultGoodsId":0,"name":"黛珂紫苏精华水实惠装 两支装","brandId":248432,"brand":"黛珂","brandEN":"COSME DECORTE","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/348786_1_pic400_9042.JPG","stockTips":null,"salesCount":2195,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"765.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":19,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":348786,"goodsId":348786,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":270969,"defaultGoodsId":0,"name":"理肤泉舒缓调理温泉水喷雾兩瓶裝","brandId":248815,"brand":"理肤泉","brandEN":"LA ROCHE-POSAY","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/270969_1_pic400_5309.jpg","stockTips":null,"salesCount":1039,"reviewCount":0,"salesPrice":{"type":"1","name":"促销价","value":"147.05000000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"0","name":"免税价","value":"173.0000","isShowPrice":null},"count":311,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":270969,"goodsId":270969,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":284249,"defaultGoodsId":0,"name":"雪花秀顺行柔和洁面泡沫两支装200ML*2","brandId":248227,"brand":"雪花秀","brandEN":"Sulwhasoo","pic":"http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/284249_1_pic400_2507.jpg","stockTips":null,"salesCount":1002,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"312.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"393.0000","isShowPrice":null},"count":759,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":284249,"goodsId":284249,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":302956,"defaultGoodsId":0,"name":"新肌透修护眼部密集精华两支装","brandId":248152,"brand":"雅诗兰黛","brandEN":"Estée Lauder","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228597/302956_1_pic400_4175.jpg","stockTips":null,"salesCount":917,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"770.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1180.0000","isShowPrice":null},"count":475,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":302956,"goodsId":302956,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":401686,"defaultGoodsId":0,"name":"苏秘37 ° 惊喜水分三件套","brandId":250716,"brand":"苏秘37°","brandEN":"su:m37°","pic":"http://pic.cdfgsanya.com/assets/upload/product/3b17b90e6868ebc9e1ecc0a0f342c3d9_400x400.JPG","stockTips":null,"salesCount":714,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"575.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"720.0000","isShowPrice":null},"count":552,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":401686,"goodsId":401687,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null}],"maylikes":[],"recommendations":[]}
+}

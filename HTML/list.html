@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="icon" type="image/x-icon" href="http://www.cdfgsanya.com/favicon.ico"/>
+		<link rel="stylesheet" type="text/css" href="../css/list.css"/>
+	</head>
+	<body>
+		<div id="#box">
+			<!--顶部-->
+			<div class="headerWarps"></div>
+			<!--内容-->
+			<div class="contentsWarp">
+				<div class="contents">
+					<div class="nav">
+						<a href="index.html">
+							<span>首页</span>
+							<span>></span>
+						</a>
+						<span class="main">美妆</span>
+					</div>
+					<div class="area">
+						<div class="sel">
+							<span>筛选条件:</span>
+						</div>
+						<div class="area_all">
+							<div class="classify">
+								<div class="name">品牌：</div>
+								<div class="more">
+									<a>
+										<i class="more_i"></i>
+										<span class="zhan">展开</span>
+									</a>
+									
+								</div>
+								<div class="all one_all hid">
+									<a class="cont">全部</a>
+								</div>
+							</div>
+							<div class="classify">
+								<div class="name">分类：</div>
+								<!--<div class="more">
+									<a>
+										<i class="more_i"></i>
+										<span class="zhan">展开</span>
+									</a>
+									
+								</div>-->
+								<div class="all two_all">
+									<a class="cont">全部</a>
+								</div>
+							</div>
+							<div class="classify">
+								<div class="name">价格：</div>
+								<!--<div class="more">
+									<a>
+										<i class="more_i"></i>
+										<span class="zhan">展开</span>
+									</a>
+									
+								</div>-->
+								<div class="all three_all">
+									<a class="cont">全部</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				    <div class="product_list">
+				    	<div class="sort newsort">
+				    		<span class="sort_name">销量</span>
+				    		<i class="icon"></i>
+				    	</div>
+				    	<div class="sort">
+				    		<span class="sort_name">价格</span>
+				    		<i class="icon"></i>
+				    	</div>
+				    	<div class="sort sipsort">
+				    		<span class="sort_name">上架时间</span>
+				    		<i class="icon"></i>
+				    	</div>
+				    	<div class="sort">
+				    		<span class="sort_name">显示有货</span>
+				    	</div>
+				    </div>
+				    <div class="all_list"></div>
+				    <div class="list_num_warp">
+				    	<div class="list_num">
+				    		<ul class="list_num_ul">
+				    			<li class="toger prev">上一页</li>
+				    			<li class="number anNumber">1</li>
+				    			<li class="number">2</li>
+				    			<li class="number">3</li>
+				    			<li class="number">4</li>
+				    			<li class="number">5</li>
+				    			<li class="ellipsis">···</li>
+				    			<li class="number">130</li>
+				    			<li class="toger next">下一页</li>
+				    		</ul>
+				    	</div>
+				    </div>
+				</div>
+			</div>
+			<!--底部-->
+			<div class="footerWarp"></div>
+		</div>
+	</body>
+	<script src="../js/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/list.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		$(function(){
+     		$(".headerWarps").load("heardpublic.html");
+     		$(".footerWarp").load("footpublic.html");
+     	})
+	</script>
+</html>

@@ -1,0 +1,873 @@
+input,button{
+	border: none;
+	outline: none;
+}
+.detailsbox{
+	background: #FFFFFF;
+}
+.content{
+	width: 1200px;
+	margin: 0 auto;
+}
+.crumbs{
+	height: 30px;
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+.crumbs a{
+	padding: 0 5px 0 5px;
+	cursor: pointer;
+}
+.crumbs a:hover{
+	color: #b81c22;
+}
+.details{
+	height: 647px;
+}
+.details_left{
+	float: left;
+	width: 500px;
+    margin: 0 50px 0 45px;
+    position: relative;
+}
+.details_simg{
+	width: 500px;
+	height: 500px;
+	position: relative;
+}
+.details_simg img{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	display: none;
+}
+.details_simg img:nth-child(1){
+	display: block;
+}
+.mask{
+	width: 180px;
+    height: 180px;
+    background-color: #418700;
+    opacity: .3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    z-index: 50;
+    cursor: pointer;
+}
+.details_bimg{
+	width: 500px;
+    height: 500px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    position: absolute;
+    left: 510px;
+    top: 0;
+    overflow: hidden;
+    z-index: 10;
+    display: none;
+}
+.shop_bimg{
+	width: 500px;
+    height: 500px;
+    position: relative;
+}
+.details_bimg img{
+	position: absolute;
+	width: 900px;
+	height: 900px;
+	display: none;
+}
+.details_bimg img:nth-child(1){
+	display: block;
+}
+.details_bot{
+	height: 62px;
+	margin-top: 20px;
+    padding: 8px 0;
+    box-sizing: border-box;
+    position: relative;
+}
+.targe_left{
+	position: absolute;
+    top: 15px;
+    left: 0;
+    width: 13px;
+    height: 54px;
+    cursor: pointer;
+    background: url(../img/下载25.png)0 -46px no-repeat;
+}
+.details_allimg{
+	position: absolute;
+    top: 9px;
+    left: 46px;
+    width: 400px;
+    height: 68px;
+    overflow: hidden;
+}
+.details_allimg li{
+	float: left;
+    width: 66px;
+    height: 66px;
+    padding: 0 6px;
+    cursor: pointer;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.details_allimg .border{
+	border: 1px solid #000;
+}
+.img_box{
+	width: 52px;
+	height: 64px;
+}
+.img_box img{
+	width: 100%;
+	height: 100%;
+}
+.targe_right{
+	position: absolute;
+	right: 0;
+    top: 15px;
+    width: 13px;
+    height: 54px;
+    cursor: pointer;
+    background: url(../img/下载25.png)-12px -46px no-repeat;
+}
+.details_right{
+	float: left;
+	width: 594px;
+	height: 647px;
+}
+.brand_name{
+	height: 28px;
+	position: relative;
+	text-align: center;
+    padding-top: 2px;
+    box-sizing: border-box;
+}
+.line{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 13px;
+	border-bottom: 1px solid #ddd;;
+}
+.brand_name span{
+	font-size: 14px;
+	background: #FFFFFF;
+	padding: 0 10px;
+	position: relative;
+}
+.shop_name{
+	height: 68px;
+	padding-top: 17px;
+    padding-left: 19px;
+    box-sizing: border-box;
+}
+.details_name{
+	overflow: hidden;
+	height: 24px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #333;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shop_code{
+	overflow: hidden;
+    line-height: 27px;
+    font-size: 14px;
+}
+.shop_price{
+	height: 64px;
+}
+.shop_newprice{
+	height:60px ;
+	padding-top: 22px;
+    line-height: 38px;
+    padding-left: 19px;
+    font-size: 14px;
+    box-sizing: border-box;
+    float: left;
+}
+.price{
+	color: #b81c22;
+    font-size: 24px;
+    font-weight: 400;
+}
+.shop_oldprice{
+	margin-top: 4px;
+    text-decoration: line-through;
+    color: #999;
+    padding-top: 22px;
+    line-height: 38px;
+    height: 60px;
+    padding-left: 19px;
+    font-size: 14px;
+    float: left;
+    box-sizing: border-box;
+}
+.shop_info{
+	height: 78px;
+	padding: 24px 0 29px 19px;
+    line-height: 19px;
+    box-sizing: border-box;
+}
+.promotion{
+	float: right;
+	width: 515px;
+	height: 20px;
+}
+.promote{
+	display: inline-block;
+    background: #b81c22;
+    color: #fff;
+    height: 19px;
+    line-height: 19px;
+    padding: 0 10px;
+    margin: 0 10px;
+}
+.xiangqing{
+	padding: 19px;
+    color: #666;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    box-sizing: border-box;
+}
+.capacity{
+	height: 44px;
+	margin-bottom: 8px;
+}
+.capacity_left{
+	float: left;
+	width: 46px;
+	height: 32px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 32px;
+}
+.capacity_right{
+	float: left;
+	width: 450px;
+	height: 44px;
+}
+.capacity_right li{
+	float: left;
+	height: 34px;
+    line-height: 34px;
+    text-align: center;
+    padding: 0 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    color: #000;
+    font-size: 14px;
+}
+.capacity_right .newact{
+	border: 1px solid #b81c22;
+}
+.buyNum{
+	height: 36px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    line-height: 36px;
+}
+.buyNum span{
+	float: left;
+}
+.Num{
+	float: left;
+    width: 135px;
+    padding-left: 10px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+.reduce{
+	float: left;
+	width: 16px;
+    height: 16px;
+    line-height: 16px;
+    margin: 11px 0;
+    cursor: pointer;
+}
+.buyNum_input{
+	float: left;
+	width: 56px;
+	height: 36px;
+	margin: 0 10px;
+}
+.buyNum_input input{
+	width: 56px;
+	height: 36px;
+	padding: 5px;
+	border: 1px solid #ddd;
+	box-sizing: border-box;
+	text-align: center;
+}
+.increase{
+	float: left;
+	width: 16px;
+    height: 16px;
+    line-height: 16px;
+    margin: 11px 0;
+    cursor: pointer;
+}
+.quota{
+	float:left ;
+	color: red;
+}
+.take_goods{
+	height: 112px;
+	margin-top: 24px;
+    line-height: 28px;
+    font-size: 12px;
+}
+.take_goods span{
+	float: left;
+}
+.take_goods_ul{
+	width: 520px;
+	height: 112px;
+	float: left;
+}
+.take_goods_ul li{
+	line-height: 28px;
+}
+.take_goods_ul strong{
+	float: left;
+	color: #b81c22;
+    font-weight: 700;
+}
+.take_goods_ul span{
+	float: left;
+	margin-left: 5px;
+}
+.take_goods_ul i{
+	display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin: 5px 0 0 5px;
+    cursor: pointer;
+    background: url(../img/下载25.png) 0 -100px no-repeat;
+}
+.buy{
+	height: 112px;
+    line-height: 42px;
+    padding: 29px 0 41px 19px;
+    box-sizing: border-box;
+}
+.buy a{
+	float: left;
+	width: 198px;
+	height: 40px;
+	text-align: center;
+	font-size: 18px;
+	cursor: pointer;
+	color: #b81c22;
+    background-color: #fff;
+    border: 1px solid #b81c22;
+    box-sizing: border-box;
+}
+.buy a:hover{
+	border: 2px solid #b81c22;
+	line-height: 40px;
+}
+.buy button{
+	float: left;
+    width: 198px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 4px;
+    color: #fff;
+    background-color: #b81c22;
+    cursor: pointer;
+}
+.buy button:hover{
+	background-color: #ce2023;
+}    
+.weibo{
+	width: 100%;
+	padding-left: 19px;
+	box-sizing: border-box;
+}
+.coll{
+	float: left;
+	width: 76px;
+	/*height: 19.8px;*/
+	cursor: pointer;
+}
+.coll i{
+	float: left;
+    width: 18px;
+    height: 15px;
+    margin-right: 10px;
+    margin-top: 1px;
+    background: url(../img/下载27.png)0 0 no-repeat;
+}
+.coll span{
+	float: left;
+}
+.coll:hover{
+	color: #b81c22;
+}
+.share_warp{
+	width: 440px;
+	float: right;
+}
+.share{
+	width: 310px;
+	height: 32.8px;
+}
+.share i{
+	float: left;
+	width: 18px;
+    height: 16px;
+    background: url(../img/下载28.png)no-repeat;
+}
+.share span{
+	float: left;
+	margin: 0 15px;
+}
+.share_list{
+	float: left;
+	width: 138px;
+	height: 28px;
+	margin-top: -5px;
+}
+.share_list a{
+	float: left;
+	width: 17px;
+	height: 16px;
+	cursor: pointer;
+    margin: 6px 6px 6px 0;
+    background: url(../img/icons_0_16.png)0 0 no-repeat;
+}
+.share_list a:hover{
+	opacity: .8;
+}
+.detail_content{
+	margin-top: 36px;
+}
+.detail_content_left{
+	float: left;
+	width: 925px;
+}
+.detail_content_nav{
+	height: 22px;
+	border-bottom: 1px solid #ddd;
+}
+.detail_content_nav li{
+	float: left;
+	background: #ccc;
+    color: #fff;
+    height: 23px;
+    line-height: 23px;
+    margin-right: 1px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 0 22px;
+}
+.detail_content_nav .new_nav{
+	color: #fff;
+    background: #b81c22;
+    border-color: #ddd;
+}
+.detail_fw{
+	margin-top: 29px;
+	position: relative;
+}
+.merchant_info{
+	/*position: absolute;*/
+	display: none;
+}
+.merchant_info:nth-child(1){
+	display: block;
+}
+.merchant_p{
+	font-weight: 700;
+    padding: 0 0 5px;
+    margin: 0 0 5px;
+    color: #333;
+    border-bottom: 1px dashed #ddd;
+    box-sizing: border-box;
+}
+.merchant_s{
+	line-height: 24px;
+    color: #666;
+    width: 851px;
+    margin-bottom: 18px;
+    padding: 10px 4%;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+.merchant_s p{
+	line-height: 24px;
+}
+.merchant_q{
+	border: 1px solid #ddd;
+    font-size: 12px;
+    line-height: 24px;
+    color: #666;
+    width: 888px;
+    margin-bottom: 18px;
+    margin: 10px 2%;
+    box-sizing: border-box;
+}
+.ques_content{
+	padding: 10px 5px;
+	box-sizing: border-box;
+}
+.ques{
+	background: #f7f7f7;
+    color: #333;
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+.detail_table{
+	display: table;
+    border-left: 2px solid #ddd;
+    border-top: 2px solid #ddd;
+    border-bottom: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.detail_table th{
+	border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    height: 39px;
+    line-height: 18px;
+    box-sizing: border-box;
+    background: #eee;
+    padding-left: 40px;
+    width: 160px;
+    text-align: left;
+    font-weight: 300;
+}
+.detail_table td{
+	width: 301px;
+	height: 39px;
+	box-sizing: border-box;
+	padding: 10px 16px;
+	border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    line-height: 18px;
+}
+.detail_content_right{
+	float: right;
+	width: 249px;
+	margin-top: 23px;
+    border: 1px solid #ddd;
+    margin-bottom: 100px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+.detail_content:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.detail_recommend{
+	width: 247px;
+	height: 42px;
+	box-sizing: border-box;
+	padding: 18px 0 5px 14px;
+}
+.detail_recommend li{
+	float: left;
+	width: 72px;
+	height: 20px;
+	text-align: center;
+    font-size: 13px;
+    cursor: pointer;
+    line-height: 20px;
+    position: relative;
+}
+.detail_recommend i{
+	width: 8px;
+    height: 5px;
+    position: absolute;
+    top: 20px;
+    left: 34px;
+    background: url(../img/下载25.png)0 -40px no-repeat;
+    display: none;
+}
+.detail_recommend_bg{
+	color: #fff;
+    background: #b81c22;
+}
+.detail_recommend_bg i{
+	display: block;
+}
+.detail_recommend_list{
+	width: 247px;
+}
+.shop_recommend_warp{
+	width: 225px;
+	margin: 0 auto;
+	display: none;
+}
+.shop_recommend_warp:nth-child(1){
+	display: block;
+}
+.shop_recommend_warp li{
+	margin-top: 10px;
+}
+.shop_recommend_img{
+	width: 225px;
+	height: 225px;
+	cursor: pointer;
+}
+.shop_recommend_img img{
+	width: 225px;
+	height: 225px;
+}
+.link{
+	height: 40px;
+}
+.link p{
+	color: #000000;
+	line-height: 20px;
+	text-align: center;
+	overflow: hidden;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.shop_recommend_price{
+	text-align: center;
+	line-height: 25px;
+	color: #b81c22;
+	font-size: 15px;
+}
+.shop_contrastPrice_price{
+	text-align: center;
+}
+.shop_contrastPrice_price span{
+	color: #999;
+	text-decoration: line-through;
+}
+.browse{
+	width: 1200px;
+	height: 397px;
+	margin-bottom: 20px;
+}
+.clear{
+	clear: both;
+}
+.browse_nav{
+	height: 23px;
+}
+.browse_nav div{
+	float: left;
+	height: 23px;
+    line-height: 23px;
+    margin-right: 1px;
+    font-size: 14px;
+    padding: 0 22px;
+    background: #ccc;
+    color: #fff;
+    cursor: pointer;
+}
+.browse_nav .newdiv{
+	color: #fff;
+    background: #b81c22;
+    border-color: #ddd;
+}
+.browse_nav_content{
+	height: 374px;
+	border: 1px solid #ddd;
+	box-sizing: border-box;
+	position: relative;
+}
+.browse_content{
+	width: 1134px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.browse_content ul{
+	display: none;
+	margin-top: 20px;
+}
+ .browse_content .browse_content_ul{
+	width: 9999px;
+	display: block;
+}
+.you_like{
+	width: 9999px;
+	height: 333px;
+}
+.browse_content_ul:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.browse_content_ul li{
+	width: 240px;
+	height: 333px;
+	float: left;
+	margin-left: 35px;
+}
+.browse_content_img{
+	display: block;
+	width: 240px;
+	height: 240px;
+	cursor: pointer;
+}
+.browse_content_img img{
+	width: 240px;
+	height: 240px;
+}
+.browse_content_text{
+	display: block;
+	width: 240px;
+	height: 40px;
+	color: #000;
+	cursor: pointer;
+}
+.browse_content_text:hover{
+	color: #b81c22;
+}
+.browse_content_text p{
+	margin-top: 16px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+.browse_content_price{
+	height: 25px;
+	text-align: center;
+}
+.browse_noe_price{
+    color: #b81c22;
+    font-size: 15px;
+}
+.browse_old_price{
+	text-decoration: line-through;
+    color: #999;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.browse_nav_content>span{
+	width: 20px;
+    height: 70px;
+    position: absolute;
+    font-family: "宋体";
+    font-size: 45px;
+    top: 50%;
+    margin-top: -35px;
+    cursor: pointer;
+}
+.browse_nav_content .browse_button_left{
+	left: 20px;
+}
+.browse_nav_content .browse_button_right{
+	right: 20px;
+}
+.shadeWarp{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;left: 0;bottom: 0;right: 0;
+	display: none;
+}
+.shade{
+	width: 100%;
+	height: 100%;
+	background: #000;
+    opacity: .5;
+    position: absolute;
+    z-index: 100;
+}
+.success{
+	width: 710px;
+    height: 400px;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    z-index: 101;
+}
+.success_title{
+	height: 69px;
+	position: relative;
+	border-bottom:1px solid #111;
+}
+.success_title p{
+	position: absolute;
+    bottom: -1px;
+    left: 40px;
+    width: 125px;
+    height: 35px;
+    border-bottom: 5px solid #b81c22;
+    line-height: 35px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #b81c22;
+}
+.flase{
+	float: right;
+	width: 18px;
+	height: 17px;
+	background: url(../img/下载29.png);
+	margin: 10px 10px 0 0;
+	cursor: pointer;
+}
+.see{
+	height: 242px;
+	position: relative;
+}    
+.cont_img{
+	float: left;
+	width: 164px;
+	height: 145px;
+	margin: 70px 0 0 75px;
+	background: url(../img/下载30.jpg);
+}
+.cont{
+	width: 445px;
+	height: 142px;
+	margin-top: 80px;
+	float: right;
+}
+.cont_text{
+	height: 34px;
+    font-size: 24px;
+    line-height: 34px;
+    color: #333;
+}
+.total{
+	height: 40px;
+    line-height: 40px;
+    color: #333;
+}
+.cont_same{
+	height: 30px;
+	padding: 4px 0;
+	font-weight: 700;
+	color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+.keep{
+	width: 118px;
+	background: #b81c22;
+    margin-right: 10px;
+}	
+.go{
+	width: 148px;
+    background: #666;
+}

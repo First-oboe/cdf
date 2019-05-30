@@ -1,0 +1,412 @@
+{
+	"items": [
+		{
+			"id": 400332,
+			"goodsId": 400333,
+			"styleId": 400332,
+			"warehouseId": 1,
+			"name": "资生堂新红妍肌活精华露 100ML",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/0ff301c6b4b43622223ad2ac1ab0fa1a_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "1136.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "1450.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:17:06",
+			"shelfStatus": 1,
+			"count": 208,
+			"isSellable": true,
+			"brand": "资生堂",
+			"brandEN": "SHISEIDO",
+			"brandId": 248268
+		}, {
+			"id": 403329,
+			"goodsId": 403330,
+			"styleId": 403329,
+			"warehouseId": 1,
+			"name": "倩碧活芯乳两支装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/11e2121c79249b05a9a3460bb4e6eafe_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "482.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "630.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:17:06",
+			"shelfStatus": 1,
+			"count": 319,
+			"isSellable": true,
+			"brand": "倩碧",
+			"brandEN": "CLINIQUE",
+			"brandId": 248271
+		}, {
+			"id": 402801,
+			"goodsId": 402802,
+			"styleId": 402801,
+			"warehouseId": 1,
+			"name": "茱莉蔻玫瑰衡肤花卉水沁润限量版",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/c9d9799b5f2b5a802dcedd7a6b64d74b_400x400.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "413.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "600.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:17:06",
+			"shelfStatus": 1,
+			"count": 62,
+			"isSellable": true,
+			"brand": "茱莉蔻",
+			"brandEN": "Jurlique",
+			"brandId": 248307
+		}, {
+			"id": 403460,
+			"goodsId": 403461,
+			"styleId": 403460,
+			"warehouseId": 1,
+			"name": "蒂芙尼浓情女士香水50ML",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/eaa4aa8d6995674a04b3710a0e35ce26_400x400.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "702.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "845.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:17:06",
+			"shelfStatus": 1,
+			"count": 8,
+			"isSellable": true,
+			"brand": "蒂芙尼",
+			"brandEN": "TIFFANY&CO.",
+			"brandId": 249131
+		}, {
+			"id": 300683,
+			"goodsId": 300683,
+			"styleId": 300683,
+			"warehouseId": 1,
+			"name": "兰蔻新清滢柔肤水套装",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/1/991142/610/237571/300683_1_pic400_4299.jpg",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "880.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": null,
+			"browsingTime": "2019-05-21 11:17:06",
+			"shelfStatus": 1,
+			"count": 48,
+			"isSellable": true,
+			"brand": "兰蔻",
+			"brandEN": "LANCOME",
+			"brandId": 248137
+		}, {
+			"id": 347895,
+			"goodsId": 347895,
+			"styleId": 347895,
+			"warehouseId": 1,
+			"name": "万宝龙Pix系列签字笔卡包套装117088",
+			"pic": "http://pic.cdfgsanya.com/assets/upload/product/601/603/225513/228664/237369/347895_1_pic400_3721.JPG",
+			"salesPrice": {
+				"type": "0",
+				"name": "免税价",
+				"value": "2150.0000",
+				"isShowPrice": null
+			},
+			"contrastPrice": {
+				"type": "4",
+				"name": "市场价",
+				"value": "4400.0000",
+				"isShowPrice": null
+			},
+			"browsingTime": "2019-05-21 11:17:06",
+			"shelfStatus": 1,
+			"count": 2,
+			"isSellable": true,
+			"brand": "万宝龙",
+			"brandEN": "Montblanc",
+			"brandId": 248229
+		}
+	],
+	"total": 8,
+	"page": 1,
+	"nav": [
+		{
+			"id": 225510,
+			"name": "美妆"
+		}, {
+			"id": 228586,
+			"name": "护肤"
+		}, {
+			"id": 228593,
+			"name": "精华"
+		}, {
+			"id": 248268,
+			"name": "SHISEIDO 资生堂"
+		}, {
+			"id": 400332,
+			"name": "资生堂新红妍肌活精华露 100ML"
+		}
+	],
+	"detail": {
+		"id": 400332,
+		"name": "资生堂新红妍肌活精华露 100ML",
+		"nameEN": "SHISEIDO JGA. UTM P INFUSING CONCENTRATE N 100ML",
+		"brand": {
+			"id": 248268,
+			"initial": "ZI",
+			"name": "资生堂",
+			"nameEN": "SHISEIDO",
+			"log": "http://pic.cdfgsanya.com/assets/upload/brandlogo/2016/10/12/20161012053906742.jpg",
+			"url": "",
+			"title": "",
+			"banner": "",
+			"country": {
+				"name": "日本",
+				"nameEN": "JPN",
+				"log": "http://pic.cdfgsanya.com/assets/upload/country/20f2fb04b250d2bb284279ed161733ea.png"
+			},
+			"productCount": 59,
+			"description": "美丽如初\r\n逾140年，资生堂不断为世人赋予美的定义，同时传递美的知识和力量。始终作为倾慕者的引领，也因此我们发现激发共鸣，能让美成为一种积极的力量，触动次世代自信走向未来。\r\n我们喜欢发现美，分享美。我们相信美，远不止停留于可见的外在，更是对于自然、季候、光线和色彩的感知，如同人的五类感官，如同生命交织的微妙。\r\n我们在世界寻找美，于研究中塑造美，于科学和艺术中发现美。我们在与他人及世界的联系中认识美，我们从产品体验中了解美。\r\n在资生堂，美不是一个图像，而是一种感受。当美被分享，我们能想象一个更好的世界，我们欣赏美的多样性。我们意识到差异和芥蒂难免暗藏，但正因如此，美就成为了一种解药，抑或避风港，更是值得分享的感受——我们相信美是和谐的源泉。\r\n资生堂，143年，与世界分享美。"
+		},
+		"pics": [
+			"http://pic.cdfgsanya.com/assets/upload/product/0ff301c6b4b43622223ad2ac1ab0fa1a_500x500.jpg"
+		],
+		"description": "无惧伤害，强韧美力。",
+		"details": "<div style=\"background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-size: 12px;\" microsoft=\"\">\n    <!---- 商品展示 ---->\n    <div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px; margin:10px 0 0; color:#333; font-size:14px;\">\n        <span style=\"padding-left:10px;\">商品展示<em style=\"color:#ccc; padding-left:10px;  font-style:normal;\">COMMODITY DISPLAY</em></span>\n    </div>\n    <div style=\" line-height:20px; padding:10px;\">\n        无惧伤害，强韧美力。资生堂首款改善肌肤体质精华红妍肌活精华露，释放你的美丽潜能！独家ULTIMUNE复方成分能焕活朗格汉斯细胞作用，提升由内而外战胜岁月、压力及外界损伤的强韧美丽能量。感受肌肤开始变得光滑柔嫩，逐渐发现肌肤抵抗伤害能力增强，问题不再反覆发生；持之以恒，肌肤整体状态提升，即使岁月流逝也一样维持美丽动人。\n    </div>\n    <div style=\"text-align:center;\">\n        <img src=\"http://pic.cdfgsanya.com/assets/upload/productdetail/8c01ce7867bbd1dd60120fbf657e9afc.jpg\"/>\n    </div><!---- 使用方法 ---->\n    <div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px; margin:10px 0 0; color:#333;font-size:14px;\">\n        <span style=\" padding-left:10px;\">使用方法<em style=\"color:#ccc; padding-left:10px;  font-style:normal;\">USAGE</em></span>\n    </div>\n    <div style=\"padding:10px;line-height:20px;\">\n        每日早晚在洁面和柔肤水后使用。如需同时使用其他精华类产品，请先使用红妍肌活精华露，可提升后续产品护理效果。按压喷头2次，将精华取于掌心后均匀涂抹于整个脸部。\n    </div><!---- 注意事项 ---->\n    <div style=\" width:100%;font-size:14px; color:#333; height:30px; line-height:30px;  background:#f7f7f7;\">\n        <strong style=\" padding-left:10px;\">保管说明及注意事项：</strong>\n    </div>\n    <div style=\" padding:10px;line-height:20px;\">\n        1.使用后请盖好盖。<br/>2.保管时请放置于婴幼儿碰不到的地方。<br/>3.请勿放置到高温或阳光暴晒的地方。<br/>4.使用化妆品过程中出现红斑，红肿，痒，刺激等异常情况，请立即停止使用该产品并向皮肤科医生进行相关咨询。<br/>5.有伤痕处，湿疹及皮肤炎等皮肤问题的情况下请勿使用。<br/>6.如不慎进入眼睛，请即刻用大量清水冲洗并咨询医生。<span style=\" color:#000000; padding-top:5px; display:block;\">温馨提示：<br/>1.护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<br/>2.因商品产地及批次不同，外包装会有所变化。商品功效及成分不变，请放心使用。<br/>3.因屏幕显示与实际商品可能存在色差，请以收到实际商品的颜色为准。<br/>4.产品中文名称请参考各产品外包装中文标签。</span>\n    </div><!---- 品牌故事 ---->\n    <div style=\"width:100%; height:40px; border-bottom:1px dashed #ddd; line-height:40px; margin:10px 0 0; color:#333;  font-size:14px;\">\n        <span style=\"padding-left:10px;\">品牌故事<em style=\"color:#ccc; padding-left:10px; font-style:normal;\">BRAND INTRODUCTION</em></span>\n    </div>\n    <div style=\"width:100%; text-align:left;overflow:hidden;\">\n        <div style=\"margin:0; padding:10px;line-height:20px;\">\n            美丽如初<br/>逾140年，资生堂不断为世人赋予美的定义，同时传递美的知识和力量。始终作为倾慕者的引领，也因此我们发现激发共鸣，能让美成为一种积极的力量，触动次世代自信走向未来。<br/>我们喜欢发现美，分享美。我们相信美，远不止停留于可见的外在，更是对于自然、季候、光线和色彩的感知，如同人的五类感官，如同生命交织的微妙。我们在世界寻找美，于研究中塑造美，于科学和艺术中发现美。我们在与他人及世界的联系中认识美，我们从产品体验中了解美。<br/>在资生堂，美不是一个图像，而是一种感受。当美被分享，我们能想象一个更好的世界，我们欣赏美的多样性。我们意识到差异和芥蒂难免暗藏，但正因如此，美就成为了一种解药，抑或避风港，更是值得分享的感受&amp;mdash;&amp;mdash;我们相信美是和谐的源泉。<br/>资生堂，143年，与世界分享美。\n        </div>\n    </div>\n</div>",
+		"detailsEN": "",
+		"faqs": [
+			{
+				"title": "常见问题",
+				"sections": [
+					{
+						"id": 1028,
+						"name": "Q：购买时间有什么要求吗？",
+						"content": "旅客购买免税品时间距离离岛时间不能超过<strong>30</strong>天。<br/>1.<strong>三亚凤凰机场</strong>，航班出发时间要求如下：<br/>00:00--10:00之间购买，<strong>当</strong>日16:00之后<br/>10:00--21:00之间购买，提前6小时下单<br/>21:00--00:00之间购买，<strong>次</strong>日16:00之后<br/>2.<strong>海口美兰机场、海口火车站</strong>，航班/火车出发时间要求如下：<br/>00:00--09:00之间购买，<strong>次</strong>日08:00之后<br/>09:00--21:00之间购买，<strong>次</strong>日08:00之后<br/>21:00--00:00之间购买，<strong>后</strong>天08:00之后<br/>3.<strong>琼海博鳌机场</strong>，航班出发时间要求如下：<br/>00:00--09:00之间购买，<strong>次</strong>日11:00之后<br/>09:00--21:00之间购买，<strong>次</strong>日11:00之后<br/>21:00--00:00之间购买，<strong>后</strong>天11:00之后<br/>4.<strong style=\"white-space: normal;\">新海港、秀英港</strong>，轮渡出发时间要求如下：<br style=\"white-space: normal;\"/>00:00--09:00之间购买，<strong style=\"white-space: normal;\">次</strong>日08:00之后<br style=\"white-space: normal;\"/>09:00--21:00之间购买，<strong style=\"white-space: normal;\">次</strong>日08:00之后<br style=\"white-space: normal;\"/>21:00--00:00之间购买，<strong style=\"white-space: normal;\">后</strong>天08:00之后",
+						"shortName": null
+					}, {
+						"id": 1035,
+						"name": "Q：在官网购买免税品需要满足什么条件？",
+						"content": "<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">年满16周岁的中国公民且需持有离岛但不离境的机票、火车票或轮渡船票。</span></p>",
+						"shortName": null
+					}, {
+						"id": 1036,
+						"name": "Q：还没有订机票、火车票或轮渡船票，可以购买吗？",
+						"content": "<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">不可以，根据离岛免税政策规定，必须持有正确的离岛航班信息、火车票或轮渡船票信息才能购买。</span></p>",
+						"shortName": null
+					}, {
+						"id": 1022,
+						"name": "Q：飞机航班、火车车次或轮渡班次变更或改签，怎么办？",
+						"content": "<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">若您乘坐的飞机航班、火车车次或轮渡班次变更或改签，请至少在原行程出发前24小时联系客服（400-699-6956）更改，否则可能导致您无法提货，只能申请退货。</span></p>",
+						"shortName": null
+					}, {
+						"id": 10003,
+						"name": "Q：市场价、划线价、促销价指的是什么？",
+						"content": "1、<strong>市场价、划线价</strong>：商品展示的划线价或市场价可能是品牌官网价、品牌专柜价、有税零售价；由于地区、时间的差异性和市场行情波动，品牌官网价、品牌专柜价、商品吊牌价等可能会与您购物时展示的不一致，该价格仅供您参考。<p>2、<strong>促销价</strong>：如无特殊说明，促销价是在免税价基础上给予的优惠价格。如有疑问，您可以在购买前与客服联系。<br/></p><p>3、<strong>价格异常</strong>：因可能存在系统缓存、页面更新延迟等不确定性情况，导致价格显示异常，商品具体售价请以订单结算页价格为准。如您发现异常情况出现，请立即联系我们修正，以便您能顺利购物。<br/></p>",
+						"shortName": null
+					}, {
+						"id": 1037,
+						"name": "Q：限购数量是怎么回事？",
+						"content": "<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">国家规定每人每次购买免税品按照不同类别不得超出相应数量（例如化妆品12件、香水8件、手表、首饰6件、箱包、配饰4件，家用空气净化器2件等）。</span></p>",
+						"shortName": null
+					}, {
+						"id": 1057,
+						"name": "Q：购物次数、限购额度是怎么回事？",
+						"content": "<p>﻿1、购物次数：离岛旅客不限购物次数。</p><p>2、限购额度：每个公历年内，单价人民币8000元以下商品，累计购物金额不超过人民币30000元（含30000元），此外，单价人民币8000元以上商品，每年限购2件，每人每次限购1件，并在扣减未使用的免税额后缴纳进境物品进口税（行邮税），最高扣减免税额度为8000元。</p><p>（PS.同一旅客在同一年度内乘飞机、乘火车和乘轮船免税购物金额合计计算，且不得超过离岛免税政策的额度限制规定。）</p>",
+						"shortName": null
+					}, {
+						"id": 1059,
+						"name": "Q：不同免税店购买，免税额度是分别计算的吗？",
+						"content": "<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">离岛一次，计一次购买次数，只要在离岛免税店购物，就会消耗本次购买机会的免税额度。飞机、火车和轮渡离岛限购额度与限购数量同享，购买免税品的限制以身份证计算，三种方式离岛均会消耗免税额度。</span></p>",
+						"shortName": null
+					}, {
+						"id": 1063,
+						"name": "Q：官网购买后，怎么提货呢？",
+						"content": "<p><strong>1. 乘坐飞机离岛</strong>：在离岛机场隔离区cdf提货点取货，可直接带上飞机。<br/>（三亚凤凰机场在国内出发厅215号登机口对面；海口美兰机场在国内出发厅15号登机口旁；琼海博鳌机场在国内出发厅2楼1号登机口旁。）</p><p><strong>2. 乘坐火车离岛</strong>：<br/>从三亚、东方火车站出发：火车到达海口火车站后，在站台处三亚国际免税城提货点提货；<br/>从海口火车站出发：在海口火车站站内三亚国际免税城提货点提货。<br/><strong style=\"white-space: normal;\">3. 轮渡离岛</strong>：<br style=\"white-space: normal;\"/>从新海港出发：<br/>散客提货进入安检后右转5米免税店散客提货点处；<br/>自驾提货通过车辆检票口后行至小车安检站右转50米免税店自驾提货点处。</p><p>从秀英港出发：<br/>散客提货安检后左转免税店散客提货点处；<br/>自驾提货经3号门进入码头①可向左行驶至7--8号码头免税店提货点自驾窗口提货；②或经过5号门和8号门前往11号码头免税店自驾提货处。</p>",
+						"shortName": null
+					}, {
+						"id": 10005,
+						"name": "Q：下单成功后会收到短信通知吗？",
+						"content": "<p>下单支付后，若订单成功您会收到由三亚国际免税城发出的下单成功的信息；若订单失败，系统也会短信提示您，为避免影响您的购物，请您及时关注我们的短信提醒，如有问题，可致电客服电话：400-699-6956，我们会竭诚为您服务。</p>",
+						"shortName": null
+					}, {
+						"id": 1065,
+						"name": "Q：提货时需要出示哪些凭证？",
+						"content": "<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\">提货时出示提货人身份证、登机牌、火车票或轮渡船票。</span></p>",
+						"shortName": null
+					}, {
+						"id": 1067,
+						"name": "Q：提货时间需要注意哪些？",
+						"content": "建议您在登机、火车或轮渡出发时间前60分钟，到达提货处提取商品，避免因高峰期排队等候而延误您的行程。",
+						"shortName": null
+					}, {
+						"id": 1061,
+						"name": "Q：如何开具发票？",
+						"content": "购买免税商品，您在办理提货后，关注“cdf离岛免税一三亚国际免税城”官方微信公众号，进入菜单“我的服务--电子发票”自助开具电子发票。",
+						"shortName": null
+					}
+				]
+			}, {
+				"title": "售后服务",
+				"sections": [
+					{
+						"id": 1069,
+						"name": "提货前退货",
+						"content": "<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.如出现任何原因而导致您在提货点未能提货，按照国家对免税品管理的相关规定，一律以成交价格整包办理退货、退款手续。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.如您提货时发现部分商品质量有问题要求退货，因涉及免税品核销不能对一张提货联中的某个单品进行核销，不可只退部分商品，必须整单退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">您也可以直接致电客服400-699-6956取消订单，经由工作人员确认后，在15个工作日内全额退款。</span></p>",
+						"shortName": null
+					}, {
+						"id": 1071,
+						"name": "提货后退货",
+						"content": "<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">请您在办理提货手续前仔细检查商品外观，若当场验货时，发现商品残损、缺件，您可在提货处直接办理退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">当您确认商品无误并成功办理提货手续后，我们将不再承担除国家三包规定之外的任何责任。三包规定内的情况需您提供有效证明（发票、说明书、赠品、购物凭证），并经售后人员核查属实后，为您办理退货。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">以下情况的退货申请无法受理：</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.过保商品（超过三包保修期的商品）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.未经授权的维修、误用、碰撞、疏忽、滥用、进液、事故、改动、不正确的使用所造成的商品质量问题，或撕毁、涂改标贴、商品序号、防伪标记。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">3.商品三包凭证、发票缺失或涂改。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">4.密封产品原包装打开，一次性封贴或塑封破损（质量问题除外）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">5.产品已使用，但非商品本身质量问题（如：对于颜色、外观、形状、气味、使用效果不满意、商品的正常损耗造成的任何损坏等问题）。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\" background-color:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">6.其他依法不在退货范围内的。</span><br/></p>",
+						"shortName": null
+					}
+				]
+			}
+		],
+		"buyReading": {
+			"id": 1055,
+			"name": "温馨提示",
+			"content": "<p><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">1.三亚国际免税城官方商城所售商品凭保卡可享受厂家提供的品牌联保服务或指定服务商联保服务。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">2.因屏幕显示与实际商品可能存在色差，请以收到实际商品的颜色为准。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">3.鉴于免税品的特殊性，商品一旦售出概不退、换货。如给您带来不便之处，敬请谅解。如遇质量问题产生的退货邮寄费，将由我们承担。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">4.如您未经我司工作人员同意，擅自将商品退回，由此产生的一切风险均由您自行承担。对于邮件或包裹等物品的签收不视为我司对您退回的商品负有任何责任，必要时售后客服部有权处置您擅自退回的商品。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">5.退货时须将附件、说明书、发票、购物凭证、包装、商品、赠品一并退回我司，方可办理退货手续。</span><br style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" white-space:=\"\"/><span style=\"color: rgb(102, 102, 102); font-family: arial, \" microsoft=\"\" font-size:=\"\" background-color:=\"\">6.三亚国际免税城官网商城秉承客户至上的服务理念，为您提供最优质的商品及服务。如所售商品因生产工艺或仓储物流原因，可能会存在出现商品破损的几率，如发现请您及时与我司客服中心400-699-6956联系，我司将竭诚为您处理相关事宜。对于任何欺诈性行为，三亚国际免税城官网商城将保留依法追究法律责任的权利。</span></p>",
+			"shortName": null
+		},
+		"brandRecommends": null,
+		"isShowBrandInfo": false,
+		"isShowBrand": false,
+		"collect": false,
+		"content": null,
+		"properties": [
+			{
+				"title": "商品编码",
+				"val": "C039678"
+			}, {
+				"title": "厂商货号",
+				"val": "14536"
+			}, {
+				"title": "商品名称",
+				"val": "资生堂新红妍肌活精华露"
+			}, {
+				"title": "品牌名称",
+				"val": "Shiseido 资生堂"
+			}, {
+				"title": "品牌发源地",
+				"val": "日本"
+			}, {
+				"title": "规格",
+				"val": "100ML"
+			}, {
+				"title": "保质期",
+				"val": "见外包装"
+			}, {
+				"title": "适合肤质",
+				"val": "所有肤质"
+			}, {
+				"title": "功效",
+				"val": "增强肌肤抵抗力、强健肌底"
+			}
+		],
+		"defaultStyleId": 400332,
+		"styles": [
+			{
+				"id": 5361,
+				"productId": 349895,
+				"pic": "http://pic.cdfgsanya.com/assets/upload/product/814d2933fc28b544298b8358a76ebb2c.jpg",
+				"salesPrice": {
+					"type": "0",
+					"name": "免税价",
+					"value": "717.0000",
+					"isShowPrice": null
+				},
+				"properties": {
+					"容量": "50ML"
+				},
+				"stockTips": "",
+				"goodsId": 349895,
+				"count": 49,
+				"isSellable": true,
+				"hasColorStyle": false,
+				"limitNumber": 12,
+				"flashSale": null,
+				"customsId": 237571
+			}, {
+				"id": 5362,
+				"productId": 400332,
+				"pic": "http://pic.cdfgsanya.com/assets/upload/product/0ff301c6b4b43622223ad2ac1ab0fa1a.jpg",
+				"salesPrice": {
+					"type": "0",
+					"name": "免税价",
+					"value": "1136.0000",
+					"isShowPrice": null
+				},
+				"properties": {
+					"容量": "100ML"
+				},
+				"stockTips": "",
+				"goodsId": 400333,
+				"count": 208,
+				"isSellable": true,
+				"hasColorStyle": false,
+				"limitNumber": 12,
+				"flashSale": null,
+				"customsId": 237571
+			}
+		],
+		"styleDefines": [
+			{
+				"name": "容量",
+				"type": 0,
+				"values": [
+					{
+						"text": "50ML",
+						"pic": null
+					}, {
+						"text": "100ML",
+						"pic": null
+					}
+				]
+			}
+		],
+		"productCode": "C039678",
+		"smallPics": [
+			"http://pic.cdfgsanya.com/assets/upload/product/0ff301c6b4b43622223ad2ac1ab0fa1a_100x100.jpg"
+		],
+		"largePics": [
+			"http://pic.cdfgsanya.com/assets/upload/product/0ff301c6b4b43622223ad2ac1ab0fa1a_900x900.jpg"
+		],
+		"virtualCategoryName": null,
+		"productTag": null,
+		"badges": [
+			{
+				"name": "人气",
+				"backgroundColor": "#FFD4D5",
+				"foregroundColor": "#FFFFFF"
+			}
+		]
+	},
+	"data": {"id":400333,"styleId":400332,"salesPrice":{"type":0,"name":"免税价","value":"1136.0000"},"contrastPrice":{"type":4,"name":"市场价","value":"1450.0000"},"count":208,"saleCount":532,"isSellable":true,"sellerGoodRate":0.0,"isCollect":false,"limitNumber":12,"rules":[{"ruleId":597,"type":2,"label":"满减","ruleName":"此商品专享每满1000减60","topicUrl":"","topicTitle":"此商品专享每满1000减60","discountAmount":0}],"tags":null,"flashSale":null,"stockTips":"","remarkCount":0,"remarks":null,"notes":[],"warehouseAlias":null,"remarkTitle":"","freightDescription":null,"delivery":{"declare":"<strong>三亚</strong>  三亚凤凰机场离岛，至少提前6小时下单<br />\r\n<strong>海口</strong>  海口美兰机场离岛，至少提前1天下单<br />\r\n<strong>注：购买时间视下单时段而定，具体说明请查看详情。</strong> ","content":"<p><img src=\"http://pic.cdfgsanya.com/assets/upload/article/a932e4672cb86fa8dfe548afdddb767d.jpg\"/></p>","declares":[{"name":"三亚","content":"从三亚凤凰机场离岛，至少提前6小时下单\r\n"},{"name":"海口","content":"从海口美兰机场离岛，至少提前1天下单"},{"name":"琼海","content":"从琼海博鳌机场离岛，至少提前1天下单"},{"name":"注：","content":"购买时间视下单时段而定，具体说明请查看详情"}]},"limitNumberDescription":"<p><span style=\"font-family: 微软雅黑, \" microsoft=\"\" font-size:=\"\"><strong>购物次数</strong><br/>离岛旅客不限购物次数。<br/><br/><strong>限购额度</strong><br/>每个公历年内，单价人民币8000元以下商品，每年累计购物金额最多不超过人民币30000元（含30000元），此外，单价人民币8000元以上商品，每年限购2件，每人每次限购1件，并在扣减未使用的免税额后缴纳进境物品进口税（行邮税），最高可扣减免税额度为8000元。<br/>（PS.同一旅客在同一年度内乘飞机、乘火车和乘轮船离岛的免税购物金额合计计算，且不得超过离岛免税政策的额度限制规定。）<br/><br/><strong>限购数量</strong><br/>各品类商品限购数量如下：<br/>化妆品12件，香水8件，手表首饰6件，笔6件，小皮件6件，箱包4件，皮带4件，眼镜（含太阳镜）4件，鞋4件，美容仪器4件，家用空气净化器2件等。</span></p><p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-family: 微软雅黑; font-size: 12pt;\"><o:p></o:p></span></p>"},
+	"recommend":{"relateds":[{"id":282321,"defaultGoodsId":0,"name":"资生堂透白美肌集光祛斑精华液 50ML","brandId":248268,"brand":"资生堂","brandEN":"SHISEIDO","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228593/282321_1_pic400_6097.jpg","stockTips":null,"salesCount":136,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"853.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":14,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":282321,"goodsId":282321,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":277455,"defaultGoodsId":0,"name":"资生堂悦薇珀翡塑颜臻白精华液 40ML","brandId":248268,"brand":"资生堂","brandEN":"SHISEIDO","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228593/277455_1_pic400_8141.jpg","stockTips":null,"salesCount":106,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1005.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":32,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":277455,"goodsId":277455,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":270578,"defaultGoodsId":0,"name":"资生堂悦薇珀翡紧颜亮肤乳(滋润型)100ml","brandId":248268,"brand":"资生堂","brandEN":"SHISEIDO","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228594/270578_1_pic400_2481.jpg","stockTips":null,"salesCount":340,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"626.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":43,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":270578,"goodsId":270578,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":270567,"defaultGoodsId":0,"name":"资生堂悦薇珀翡紧颜亮肤水 150ML","brandId":248268,"brand":"资生堂","brandEN":"SHISEIDO","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228592/270567_1_pic400_7584.jpg","stockTips":null,"salesCount":291,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"571.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"735.0000","isShowPrice":null},"count":1,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":270567,"goodsId":270567,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":349295,"defaultGoodsId":0,"name":"资生堂悦薇珀翡塑颜抗皱霜 15ML","brandId":248268,"brand":"资生堂","brandEN":"SHISEIDO","pic":"http://pic.cdfgsanya.com/assets/upload/product/4455e259f0218778d37c6c1b3a32f251_400x400.jpg","stockTips":null,"salesCount":277,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"626.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"780.0000","isShowPrice":null},"count":364,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":349295,"goodsId":349295,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":400662,"defaultGoodsId":0,"name":"资生堂悦薇珀翡焕活洁面膏","brandId":248268,"brand":"资生堂","brandEN":"SHISEIDO","pic":"http://pic.cdfgsanya.com/assets/upload/product/06a4caa788cabe8df868092db6c57011_400x400.jpg","stockTips":null,"salesCount":249,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"268.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"360.0000","isShowPrice":null},"count":232,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":400662,"goodsId":400663,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null}],"samekinds":[{"id":268000,"defaultGoodsId":0,"name":"特润修护肌透精华露100ML","brandId":248152,"brand":"雅诗兰黛","brandEN":"Estée Lauder","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228593/268000_1_pic400_5701.jpg","stockTips":null,"salesCount":3224,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"960.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1299.0000","isShowPrice":null},"count":541,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":268000,"goodsId":268000,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":267556,"defaultGoodsId":0,"name":"兰蔻新精华肌底液","brandId":248137,"brand":"兰蔻","brandEN":"LANCOME","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228593/267556_1_pic400_2853.jpg","stockTips":null,"salesCount":600,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"995.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1720.0000","isShowPrice":null},"count":858,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":267556,"goodsId":267556,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":268390,"defaultGoodsId":0,"name":"SK-II护肤精华露 330ml","brandId":248309,"brand":"SK-II","brandEN":"SK-II","pic":"http://pic.cdfgsanya.com/assets/upload/product/59fae5e27be1d9e3f82f684e04e89922_400x400.JPG","stockTips":null,"salesCount":378,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1516.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1690.0000","isShowPrice":null},"count":429,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":268390,"goodsId":268390,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":288639,"defaultGoodsId":0,"name":"微精华肌初赋活原生液","brandId":248152,"brand":"雅诗兰黛","brandEN":"Estée Lauder","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228593/288639_1_pic400_1576.jpg","stockTips":null,"salesCount":343,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"653.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":null,"count":168,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":288639,"goodsId":288639,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":268252,"defaultGoodsId":0,"name":"SK-II护肤精华露","brandId":248309,"brand":"SK-II","brandEN":"SK-II","pic":"http://pic.cdfgsanya.com/assets/upload/product/a2a5f8056c1452cbc15e4bf6ac9d10e3_400x400.jpg","stockTips":null,"salesCount":318,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"1152.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1294.0000","isShowPrice":null},"count":394,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":268252,"goodsId":268252,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null},{"id":302837,"defaultGoodsId":0,"name":"娇兰帝皇蜂姿嫩肌修护精华油 50ml","brandId":248167,"brand":"娇兰","brandEN":"GUERLAIN","pic":"http://pic.cdfgsanya.com/assets/upload/product/601/603/225510/228586/228593/302837_1_pic400_3618.jpg","stockTips":null,"salesCount":286,"reviewCount":0,"salesPrice":{"type":"0","name":"免税价","value":"875.0000","isShowPrice":null},"marketPrice":null,"contrastPrice":{"type":"4","name":"市场价","value":"1120.0000","isShowPrice":null},"count":139,"isSellable":true,"sellerGoodRate":0.0,"colorStyleCount":0,"tags":null,"activityTags":null,"remark":null,"styleId":302837,"goodsId":302837,"warehouseId":1,"warehouseAlias":null,"badges":null,"sellingOutBeforeTip":null,"styleName":null,"shelfStatus":0,"sellCount":0,"virtualCategoryName":null,"styles":null,"styleDefines":null}],"maylikes":[],"recommendations":[]}
+}
